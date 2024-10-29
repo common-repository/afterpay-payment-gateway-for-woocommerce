@@ -1,0 +1,2776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce AfterPay Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-03 12:27+0000\n"
+"PO-Revision-Date: 2024-07-31 17:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Nynorsk)\n"
+"Language: nn_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#. %1$s: error message, %2$s: error code.
+#: class-wc-gateway-afterpay-base.php:1409
+#: class-wc-gateway-afterpay-base.php:1495
+#: class-wc-gateway-afterpay-base.php:1806
+#: class-wc-gateway-afterpay-base-rest.php:1123
+#: class-wc-gateway-afterpay-base-rest.php:1199
+#, php-format
+msgid "%1$s (Error code: %2$s)"
+msgstr ""
+
+#: class-afterpay-coupon.php:82
+msgid "AfterPay CIS code "
+msgstr ""
+
+#: class-afterpay-coupon.php:62
+msgid "AfterPay Customer Individual Score"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:630
+msgid "AfterPay Elements"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:494
+msgid "and"
+msgstr "på"
+
+#: class-wc-gateway-afterpay.php:913
+msgid "API key not working"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:909
+msgid "API key working"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:310
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:314
+#: class-wc-gateway-afterpay-dk-flex.php:319
+#: class-wc-gateway-afterpay-de-directdebit.php:352
+#: class-wc-gateway-afterpay-se-openinvoice.php:312
+#: class-wc-gateway-afterpay-de-openinvoice.php:352
+#: class-wc-gateway-afterpay-no-campaign.php:310
+#: class-wc-gateway-afterpay-fi-openinvoice.php:310
+#: class-wc-gateway-afterpay-at-directdebit.php:352
+#: class-wc-gateway-afterpay-nl-directdebit.php:320
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:312
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:310
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:314
+#: class-wc-gateway-afterpay-fi-installments.php:319
+#: class-wc-gateway-afterpay-be-openinvoice.php:322
+#: class-wc-gateway-afterpay-dk-openinvoice.php:311
+#: class-wc-gateway-afterpay-no-installments.php:317
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:311
+#: class-wc-gateway-afterpay-nl-business.php:308
+#: class-wc-gateway-afterpay-nl-openinvoice.php:331
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:314
+#: class-wc-gateway-afterpay-no-openinvoice.php:310
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:331
+#: class-wc-gateway-afterpay-de-installments.php:355
+#: class-wc-gateway-afterpay-nl-business-extra.php:308
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:310
+#: class-wc-gateway-afterpay-ch-openinvoice.php:351
+#: class-wc-gateway-afterpay-nl-payinx.php:321
+#: class-wc-gateway-afterpay-no-flex.php:319
+#: class-wc-gateway-afterpay-at-openinvoice.php:352
+#: class-wc-gateway-afterpay-fi-flex.php:319
+#: class-wc-gateway-afterpay-se-flex.php:319
+#: class-wc-gateway-afterpay-dk-installments.php:317
+#: class-wc-gateway-afterpay-nl-business-rest.php:304
+#: class-wc-gateway-afterpay-se-installments.php:317
+#: class-wc-gateway-afterpay-dk-campaign.php:311
+#: class-wc-gateway-afterpay-at-installments.php:354
+#: class-wc-gateway-afterpay-se-campaign.php:312
+msgid "Automatically after authorization"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1349
+#: class-wc-gateway-afterpay-base-rest.php:1011
+msgid "Awaiting Riverty payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:457
+#: class-wc-gateway-afterpay-base.php:463
+#, fuzzy
+#| msgid "Bank account number"
+msgid "bank account number"
+msgstr "bankkontonummer"
+
+#: class-wc-gateway-afterpay.php:850
+msgid "Bank account validated"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:384
+#: class-wc-gateway-afterpay-base.php:808
+msgid "Bankaccount"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:501
+#: class-wc-gateway-afterpay-de-directdebit.php:619
+#: class-wc-gateway-afterpay-base.php:862
+#: class-wc-gateway-afterpay-at-directdebit.php:631
+#: class-wc-gateway-afterpay-de-installments.php:707
+#: class-wc-gateway-afterpay-at-installments.php:719
+msgid "Bankaccount is a required field"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:486
+#: class-wc-gateway-afterpay-at-directdebit.php:486
+#: class-wc-gateway-afterpay-de-installments.php:555
+#: class-wc-gateway-afterpay-at-installments.php:554
+msgid "Bankverbindung (IBAN):"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:311
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:315
+#: class-wc-gateway-afterpay-dk-flex.php:320
+#: class-wc-gateway-afterpay-de-directdebit.php:353
+#: class-wc-gateway-afterpay-se-openinvoice.php:313
+#: class-wc-gateway-afterpay-de-openinvoice.php:353
+#: class-wc-gateway-afterpay-no-campaign.php:311
+#: class-wc-gateway-afterpay-fi-openinvoice.php:311
+#: class-wc-gateway-afterpay-at-directdebit.php:353
+#: class-wc-gateway-afterpay-nl-directdebit.php:321
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:313
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:311
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:315
+#: class-wc-gateway-afterpay-fi-installments.php:320
+#: class-wc-gateway-afterpay-be-openinvoice.php:323
+#: class-wc-gateway-afterpay-dk-openinvoice.php:312
+#: class-wc-gateway-afterpay-no-installments.php:318
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:312
+#: class-wc-gateway-afterpay-nl-business.php:309
+#: class-wc-gateway-afterpay-nl-openinvoice.php:332
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:315
+#: class-wc-gateway-afterpay-no-openinvoice.php:311
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:332
+#: class-wc-gateway-afterpay-de-installments.php:356
+#: class-wc-gateway-afterpay-nl-business-extra.php:309
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:311
+#: class-wc-gateway-afterpay-ch-openinvoice.php:352
+#: class-wc-gateway-afterpay-nl-payinx.php:322
+#: class-wc-gateway-afterpay-no-flex.php:320
+#: class-wc-gateway-afterpay-at-openinvoice.php:353
+#: class-wc-gateway-afterpay-fi-flex.php:320
+#: class-wc-gateway-afterpay-se-flex.php:320
+#: class-wc-gateway-afterpay-dk-installments.php:318
+#: class-wc-gateway-afterpay-nl-business-rest.php:305
+#: class-wc-gateway-afterpay-se-installments.php:318
+#: class-wc-gateway-afterpay-dk-campaign.php:312
+#: class-wc-gateway-afterpay-at-installments.php:355
+#: class-wc-gateway-afterpay-se-campaign.php:313
+msgid "Based on Woocommerce Status"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:747
+msgid "Birthday is a required field"
+msgstr "Fødselsdato er et obligatorisk felt"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:292
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:296
+#: class-wc-gateway-afterpay-dk-flex.php:301
+#: class-wc-gateway-afterpay-de-directdebit.php:334
+#: class-wc-gateway-afterpay-se-openinvoice.php:294
+#: class-wc-gateway-afterpay-de-openinvoice.php:334
+#: class-wc-gateway-afterpay-no-campaign.php:292
+#: class-wc-gateway-afterpay-fi-openinvoice.php:292
+#: class-wc-gateway-afterpay-at-directdebit.php:334
+#: class-wc-gateway-afterpay-nl-directdebit.php:302
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:294
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:292
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:296
+#: class-wc-gateway-afterpay-fi-installments.php:301
+#: class-wc-gateway-afterpay-be-openinvoice.php:304
+#: class-wc-gateway-afterpay-dk-openinvoice.php:293
+#: class-wc-gateway-afterpay-no-installments.php:299
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:293
+#: class-wc-gateway-afterpay-nl-business.php:290
+#: class-wc-gateway-afterpay-nl-openinvoice.php:313
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:296
+#: class-wc-gateway-afterpay-no-openinvoice.php:292
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:313
+#: class-wc-gateway-afterpay-de-installments.php:337
+#: class-wc-gateway-afterpay-nl-business-extra.php:290
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:292
+#: class-wc-gateway-afterpay-ch-openinvoice.php:333
+#: class-wc-gateway-afterpay-nl-payinx.php:303
+#: class-wc-gateway-afterpay-no-flex.php:301
+#: class-wc-gateway-afterpay-at-openinvoice.php:334
+#: class-wc-gateway-afterpay-fi-flex.php:301
+#: class-wc-gateway-afterpay-se-flex.php:301
+#: class-wc-gateway-afterpay-dk-installments.php:299
+#: class-wc-gateway-afterpay-nl-business-rest.php:286
+#: class-wc-gateway-afterpay-se-installments.php:299
+#: class-wc-gateway-afterpay-dk-campaign.php:293
+#: class-wc-gateway-afterpay-at-installments.php:336
+#: class-wc-gateway-afterpay-se-campaign.php:294
+msgid "Captures and refunds"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business.php:361
+#: class-wc-gateway-afterpay-nl-business-extra.php:361
+#: class-wc-gateway-afterpay-nl-business-rest.php:361
+msgid "Chamber of Commerce number"
+msgstr ""
+"Handelskammernummer\n"
+"\n"
+
+#: class-wc-gateway-afterpay-base.php:481
+#| msgid "Chamber of commerce number"
+msgid "chamber of commerce number"
+msgstr "handelskammernummer"
+
+#: class-wc-gateway-afterpay-nl-business.php:393
+#: class-wc-gateway-afterpay-nl-business-extra.php:393
+#: class-wc-gateway-afterpay-nl-business-rest.php:393
+msgid "Chamber of Commerce number is a required field"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:286
+#: class-wc-gateway-afterpay-de-openinvoice.php:286
+#: class-wc-gateway-afterpay-at-directdebit.php:286
+#: class-wc-gateway-afterpay-de-installments.php:289
+#: class-wc-gateway-afterpay-ch-openinvoice.php:285
+#: class-wc-gateway-afterpay-at-openinvoice.php:286
+#: class-wc-gateway-afterpay-at-installments.php:288
+msgid "Client ID For profile tracking"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business.php:356
+#: class-wc-gateway-afterpay-nl-business-extra.php:356
+#: class-wc-gateway-afterpay-nl-business-rest.php:356
+msgid "Company name"
+msgstr "Selskapsnavn"
+
+#: class-wc-gateway-afterpay-base.php:472
+msgid "company name"
+msgstr "selskapsnavn"
+
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:401
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:399
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:400
+#: class-wc-gateway-afterpay-nl-business.php:390
+#: class-wc-gateway-afterpay-nl-business-extra.php:390
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:399
+#: class-wc-gateway-afterpay-nl-business-rest.php:390
+msgid "Company name is a required field"
+msgstr "Firmanavn er et påkrevd felt"
+
+#: class-wc-gateway-afterpay-de-directdebit.php:316
+#: class-wc-gateway-afterpay-de-openinvoice.php:316
+#: class-wc-gateway-afterpay-at-directdebit.php:316
+#: class-wc-gateway-afterpay-de-installments.php:319
+#: class-wc-gateway-afterpay-ch-openinvoice.php:315
+#: class-wc-gateway-afterpay-at-openinvoice.php:316
+#: class-wc-gateway-afterpay-at-installments.php:318
+msgid "Compatibility with Germanized"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:154
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:155
+#: class-wc-gateway-afterpay-dk-flex.php:163
+#: class-wc-gateway-afterpay-de-directdebit.php:165
+#: class-wc-gateway-afterpay-se-openinvoice.php:156
+#: class-wc-gateway-afterpay-de-openinvoice.php:165
+#: class-wc-gateway-afterpay-no-campaign.php:154
+#: class-wc-gateway-afterpay-fi-openinvoice.php:154
+#: class-wc-gateway-afterpay-at-directdebit.php:165
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:156
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:154
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:155
+#: class-wc-gateway-afterpay-fi-installments.php:163
+#: class-wc-gateway-afterpay-dk-openinvoice.php:155
+#: class-wc-gateway-afterpay-no-installments.php:161
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:155
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:155
+#: class-wc-gateway-afterpay-no-openinvoice.php:154
+#: class-wc-gateway-afterpay-de-installments.php:168
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:154
+#: class-wc-gateway-afterpay-ch-openinvoice.php:164
+#: class-wc-gateway-afterpay-nl-payinx.php:162
+#: class-wc-gateway-afterpay-no-flex.php:163
+#: class-wc-gateway-afterpay-at-openinvoice.php:165
+#: class-wc-gateway-afterpay-fi-flex.php:163
+#: class-wc-gateway-afterpay-se-flex.php:163
+#: class-wc-gateway-afterpay-dk-installments.php:161
+#: class-wc-gateway-afterpay-nl-business-rest.php:155
+#: class-wc-gateway-afterpay-se-installments.php:161
+#: class-wc-gateway-afterpay-dk-campaign.php:155
+#: class-wc-gateway-afterpay-at-installments.php:167
+#: class-wc-gateway-afterpay-se-campaign.php:156
+msgid ""
+"Connect to the Riverty test environment and place test orders. New to "
+"Riverty?"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:371
+#: class-wc-gateway-afterpay-de-directdebit.php:568
+#: class-wc-gateway-afterpay-base.php:796
+#: class-wc-gateway-afterpay-de-openinvoice.php:488
+#: class-wc-gateway-afterpay-at-directdebit.php:580
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:371
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:371
+#: class-wc-gateway-afterpay-de-installments.php:637
+#: class-wc-gateway-afterpay-ch-openinvoice.php:487
+#: class-wc-gateway-afterpay-nl-payinx.php:379
+#: class-wc-gateway-afterpay-at-openinvoice.php:488
+#: class-wc-gateway-afterpay-at-installments.php:648
+msgid "Date of birth"
+msgstr "Fødselsdato"
+
+#: class-wc-gateway-afterpay-base.php:453
+#: class-wc-gateway-afterpay-base.php:467
+msgid "date of birth"
+msgstr "fødselsdato"
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:253
+#: class-wc-gateway-afterpay-de-directdebit.php:263
+#: class-wc-gateway-afterpay-de-openinvoice.php:263
+#: class-wc-gateway-afterpay-at-directdebit.php:263
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:253
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:253
+#: class-wc-gateway-afterpay-de-installments.php:266
+#: class-wc-gateway-afterpay-ch-openinvoice.php:262
+#: class-wc-gateway-afterpay-nl-payinx.php:260
+#: class-wc-gateway-afterpay-at-openinvoice.php:263
+#: class-wc-gateway-afterpay-at-installments.php:265
+msgid ""
+"Date of birth is needed for payment and should be asked to the consumer in "
+"the checkout. This option will show the date of birth in the Riverty payment "
+"section."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:585
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:204
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:205
+#: class-wc-gateway-afterpay-dk-flex.php:213
+#: class-wc-gateway-afterpay-de-directdebit.php:215
+#: class-wc-gateway-afterpay-se-openinvoice.php:206
+#: class-wc-gateway-afterpay-de-openinvoice.php:215
+#: class-wc-gateway-afterpay-no-campaign.php:204
+#: class-wc-gateway-afterpay-fi-openinvoice.php:204
+#: class-wc-gateway-afterpay-at-directdebit.php:215
+#: class-wc-gateway-afterpay-nl-directdebit.php:218
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:206
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:204
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:205
+#: class-wc-gateway-afterpay-fi-installments.php:213
+#: class-wc-gateway-afterpay-be-openinvoice.php:220
+#: class-wc-gateway-afterpay-dk-openinvoice.php:205
+#: class-wc-gateway-afterpay-no-installments.php:211
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:205
+#: class-wc-gateway-afterpay-nl-business.php:216
+#: class-wc-gateway-afterpay-nl-openinvoice.php:220
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:205
+#: class-wc-gateway-afterpay-no-openinvoice.php:204
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:220
+#: class-wc-gateway-afterpay-de-installments.php:218
+#: class-wc-gateway-afterpay-nl-business-extra.php:216
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:204
+#: class-wc-gateway-afterpay-ch-openinvoice.php:214
+#: class-wc-gateway-afterpay-nl-payinx.php:212
+#: class-wc-gateway-afterpay-no-flex.php:213
+#: class-wc-gateway-afterpay-at-openinvoice.php:215
+#: class-wc-gateway-afterpay-fi-flex.php:213
+#: class-wc-gateway-afterpay-se-flex.php:213
+#: class-wc-gateway-afterpay-dk-installments.php:211
+#: class-wc-gateway-afterpay-nl-business-rest.php:205
+#: class-wc-gateway-afterpay-se-installments.php:211
+#: class-wc-gateway-afterpay-dk-campaign.php:205
+#: class-wc-gateway-afterpay-at-installments.php:217
+#: class-wc-gateway-afterpay-se-campaign.php:206
+msgid "Debug mail"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:333
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:337
+#: class-wc-gateway-afterpay-dk-flex.php:342
+#: class-wc-gateway-afterpay-de-directdebit.php:375
+#: class-wc-gateway-afterpay-se-openinvoice.php:335
+#: class-wc-gateway-afterpay-de-openinvoice.php:375
+#: class-wc-gateway-afterpay-no-campaign.php:333
+#: class-wc-gateway-afterpay-fi-openinvoice.php:333
+#: class-wc-gateway-afterpay-at-directdebit.php:375
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:335
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:333
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:337
+#: class-wc-gateway-afterpay-fi-installments.php:342
+#: class-wc-gateway-afterpay-dk-openinvoice.php:334
+#: class-wc-gateway-afterpay-no-installments.php:340
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:334
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:337
+#: class-wc-gateway-afterpay-no-openinvoice.php:333
+#: class-wc-gateway-afterpay-de-installments.php:378
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:333
+#: class-wc-gateway-afterpay-ch-openinvoice.php:374
+#: class-wc-gateway-afterpay-nl-payinx.php:344
+#: class-wc-gateway-afterpay-no-flex.php:342
+#: class-wc-gateway-afterpay-at-openinvoice.php:375
+#: class-wc-gateway-afterpay-fi-flex.php:342
+#: class-wc-gateway-afterpay-se-flex.php:342
+#: class-wc-gateway-afterpay-dk-installments.php:340
+#: class-wc-gateway-afterpay-nl-business-rest.php:327
+#: class-wc-gateway-afterpay-se-installments.php:340
+#: class-wc-gateway-afterpay-dk-campaign.php:334
+#: class-wc-gateway-afterpay-at-installments.php:377
+#: class-wc-gateway-afterpay-se-campaign.php:335
+msgid "Default percentage calculated on refunds to Riverty"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:234
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:235
+#: class-wc-gateway-afterpay-dk-flex.php:243
+#: class-wc-gateway-afterpay-de-directdebit.php:245
+#: class-wc-gateway-afterpay-se-openinvoice.php:236
+#: class-wc-gateway-afterpay-de-openinvoice.php:245
+#: class-wc-gateway-afterpay-no-campaign.php:234
+#: class-wc-gateway-afterpay-fi-openinvoice.php:234
+#: class-wc-gateway-afterpay-at-directdebit.php:245
+#: class-wc-gateway-afterpay-nl-directdebit.php:248
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:236
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:234
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:235
+#: class-wc-gateway-afterpay-fi-installments.php:243
+#: class-wc-gateway-afterpay-be-openinvoice.php:250
+#: class-wc-gateway-afterpay-dk-openinvoice.php:235
+#: class-wc-gateway-afterpay-no-installments.php:241
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:235
+#: class-wc-gateway-afterpay-nl-business.php:246
+#: class-wc-gateway-afterpay-nl-openinvoice.php:259
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:235
+#: class-wc-gateway-afterpay-no-openinvoice.php:234
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:259
+#: class-wc-gateway-afterpay-de-installments.php:248
+#: class-wc-gateway-afterpay-nl-business-extra.php:246
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:234
+#: class-wc-gateway-afterpay-ch-openinvoice.php:244
+#: class-wc-gateway-afterpay-nl-payinx.php:242
+#: class-wc-gateway-afterpay-no-flex.php:243
+#: class-wc-gateway-afterpay-at-openinvoice.php:245
+#: class-wc-gateway-afterpay-fi-flex.php:243
+#: class-wc-gateway-afterpay-se-flex.php:243
+#: class-wc-gateway-afterpay-dk-installments.php:241
+#: class-wc-gateway-afterpay-nl-business-rest.php:235
+#: class-wc-gateway-afterpay-se-installments.php:241
+#: class-wc-gateway-afterpay-dk-campaign.php:235
+#: class-wc-gateway-afterpay-at-installments.php:247
+#: class-wc-gateway-afterpay-se-campaign.php:236
+msgid "Display settings"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:259
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:263
+#: class-wc-gateway-afterpay-dk-flex.php:268
+#: class-wc-gateway-afterpay-de-directdebit.php:280
+#: class-wc-gateway-afterpay-se-openinvoice.php:261
+#: class-wc-gateway-afterpay-de-openinvoice.php:280
+#: class-wc-gateway-afterpay-no-campaign.php:259
+#: class-wc-gateway-afterpay-fi-openinvoice.php:259
+#: class-wc-gateway-afterpay-at-directdebit.php:280
+#: class-wc-gateway-afterpay-nl-directdebit.php:276
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:261
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:259
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:263
+#: class-wc-gateway-afterpay-fi-installments.php:268
+#: class-wc-gateway-afterpay-be-openinvoice.php:278
+#: class-wc-gateway-afterpay-dk-openinvoice.php:260
+#: class-wc-gateway-afterpay-no-installments.php:266
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:260
+#: class-wc-gateway-afterpay-nl-business.php:264
+#: class-wc-gateway-afterpay-nl-openinvoice.php:287
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:263
+#: class-wc-gateway-afterpay-no-openinvoice.php:259
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:287
+#: class-wc-gateway-afterpay-de-installments.php:283
+#: class-wc-gateway-afterpay-nl-business-extra.php:264
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:259
+#: class-wc-gateway-afterpay-ch-openinvoice.php:279
+#: class-wc-gateway-afterpay-nl-payinx.php:270
+#: class-wc-gateway-afterpay-no-flex.php:268
+#: class-wc-gateway-afterpay-at-openinvoice.php:280
+#: class-wc-gateway-afterpay-fi-flex.php:268
+#: class-wc-gateway-afterpay-se-flex.php:268
+#: class-wc-gateway-afterpay-dk-installments.php:266
+#: class-wc-gateway-afterpay-nl-business-rest.php:253
+#: class-wc-gateway-afterpay-se-installments.php:266
+#: class-wc-gateway-afterpay-dk-campaign.php:260
+#: class-wc-gateway-afterpay-at-installments.php:282
+#: class-wc-gateway-afterpay-se-campaign.php:261
+msgid ""
+"Do not show Riverty if selected shipping methods are used (CTRL + click to "
+"select and deselect)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:92
+msgid "Do you want to offer this or any other Riverty payment method?"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:599
+#, php-format
+msgid ""
+"Download our app on your smartphone or visit %s in your browser to find out "
+"the easiest way to keep track of outstanding payments, pause payments for "
+"returns or keep track and many more options."
+msgstr ""
+"Besøk %s i nettleseren din og finn våre enkle løsningar for å håndtere dine "
+"betalinger, utsette forfall, håndtere returer og mye mer."
+
+#: class-wc-gateway-afterpay-base.php:378
+msgid "Easy and secure"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:671
+msgid "Enable AfterPay Elements"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:298
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:302
+#: class-wc-gateway-afterpay-dk-flex.php:307
+#: class-wc-gateway-afterpay-de-directdebit.php:340
+#: class-wc-gateway-afterpay-se-openinvoice.php:300
+#: class-wc-gateway-afterpay-de-openinvoice.php:340
+#: class-wc-gateway-afterpay-no-campaign.php:298
+#: class-wc-gateway-afterpay-fi-openinvoice.php:298
+#: class-wc-gateway-afterpay-at-directdebit.php:340
+#: class-wc-gateway-afterpay-nl-directdebit.php:308
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:300
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:298
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:302
+#: class-wc-gateway-afterpay-fi-installments.php:307
+#: class-wc-gateway-afterpay-be-openinvoice.php:310
+#: class-wc-gateway-afterpay-dk-openinvoice.php:299
+#: class-wc-gateway-afterpay-no-installments.php:305
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:299
+#: class-wc-gateway-afterpay-nl-business.php:296
+#: class-wc-gateway-afterpay-nl-openinvoice.php:319
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:302
+#: class-wc-gateway-afterpay-no-openinvoice.php:298
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:319
+#: class-wc-gateway-afterpay-de-installments.php:343
+#: class-wc-gateway-afterpay-nl-business-extra.php:296
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:298
+#: class-wc-gateway-afterpay-ch-openinvoice.php:339
+#: class-wc-gateway-afterpay-nl-payinx.php:309
+#: class-wc-gateway-afterpay-no-flex.php:307
+#: class-wc-gateway-afterpay-at-openinvoice.php:340
+#: class-wc-gateway-afterpay-fi-flex.php:307
+#: class-wc-gateway-afterpay-se-flex.php:307
+#: class-wc-gateway-afterpay-dk-installments.php:305
+#: class-wc-gateway-afterpay-nl-business-rest.php:292
+#: class-wc-gateway-afterpay-se-installments.php:305
+#: class-wc-gateway-afterpay-dk-campaign.php:299
+#: class-wc-gateway-afterpay-at-installments.php:342
+#: class-wc-gateway-afterpay-se-campaign.php:300
+msgid "Enable captures"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:300
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:304
+#: class-wc-gateway-afterpay-dk-flex.php:309
+#: class-wc-gateway-afterpay-de-directdebit.php:342
+#: class-wc-gateway-afterpay-se-openinvoice.php:302
+#: class-wc-gateway-afterpay-de-openinvoice.php:342
+#: class-wc-gateway-afterpay-no-campaign.php:300
+#: class-wc-gateway-afterpay-fi-openinvoice.php:300
+#: class-wc-gateway-afterpay-at-directdebit.php:342
+#: class-wc-gateway-afterpay-nl-directdebit.php:310
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:302
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:300
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:304
+#: class-wc-gateway-afterpay-fi-installments.php:309
+#: class-wc-gateway-afterpay-be-openinvoice.php:312
+#: class-wc-gateway-afterpay-dk-openinvoice.php:301
+#: class-wc-gateway-afterpay-no-installments.php:307
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:301
+#: class-wc-gateway-afterpay-nl-business.php:298
+#: class-wc-gateway-afterpay-nl-openinvoice.php:321
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:304
+#: class-wc-gateway-afterpay-no-openinvoice.php:300
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:321
+#: class-wc-gateway-afterpay-de-installments.php:345
+#: class-wc-gateway-afterpay-nl-business-extra.php:298
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:300
+#: class-wc-gateway-afterpay-ch-openinvoice.php:341
+#: class-wc-gateway-afterpay-nl-payinx.php:311
+#: class-wc-gateway-afterpay-no-flex.php:309
+#: class-wc-gateway-afterpay-at-openinvoice.php:342
+#: class-wc-gateway-afterpay-fi-flex.php:309
+#: class-wc-gateway-afterpay-se-flex.php:309
+#: class-wc-gateway-afterpay-dk-installments.php:307
+#: class-wc-gateway-afterpay-nl-business-rest.php:294
+#: class-wc-gateway-afterpay-se-installments.php:307
+#: class-wc-gateway-afterpay-dk-campaign.php:301
+#: class-wc-gateway-afterpay-at-installments.php:344
+#: class-wc-gateway-afterpay-se-campaign.php:302
+msgid "Enable capturing"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:380
+#: class-wc-gateway-afterpay-de-directdebit.php:382
+#: class-wc-gateway-afterpay-de-openinvoice.php:380
+#: class-wc-gateway-afterpay-de-openinvoice.php:382
+#: class-wc-gateway-afterpay-at-directdebit.php:380
+#: class-wc-gateway-afterpay-at-directdebit.php:382
+#: class-wc-gateway-afterpay-de-installments.php:383
+#: class-wc-gateway-afterpay-de-installments.php:385
+#: class-wc-gateway-afterpay-ch-openinvoice.php:379
+#: class-wc-gateway-afterpay-ch-openinvoice.php:381
+#: class-wc-gateway-afterpay-at-openinvoice.php:380
+#: class-wc-gateway-afterpay-at-openinvoice.php:382
+#: class-wc-gateway-afterpay-at-installments.php:382
+#: class-wc-gateway-afterpay-at-installments.php:384
+msgid "Enable customer individual score"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:194
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:195
+#: class-wc-gateway-afterpay-dk-flex.php:203
+#: class-wc-gateway-afterpay-de-directdebit.php:205
+#: class-wc-gateway-afterpay-se-openinvoice.php:196
+#: class-wc-gateway-afterpay-de-openinvoice.php:205
+#: class-wc-gateway-afterpay-no-campaign.php:194
+#: class-wc-gateway-afterpay-fi-openinvoice.php:194
+#: class-wc-gateway-afterpay-at-directdebit.php:205
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:196
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:194
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:195
+#: class-wc-gateway-afterpay-fi-installments.php:203
+#: class-wc-gateway-afterpay-dk-openinvoice.php:195
+#: class-wc-gateway-afterpay-no-installments.php:201
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:195
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:195
+#: class-wc-gateway-afterpay-no-openinvoice.php:194
+#: class-wc-gateway-afterpay-de-installments.php:208
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:194
+#: class-wc-gateway-afterpay-ch-openinvoice.php:204
+#: class-wc-gateway-afterpay-nl-payinx.php:202
+#: class-wc-gateway-afterpay-no-flex.php:203
+#: class-wc-gateway-afterpay-at-openinvoice.php:205
+#: class-wc-gateway-afterpay-fi-flex.php:203
+#: class-wc-gateway-afterpay-se-flex.php:203
+#: class-wc-gateway-afterpay-dk-installments.php:201
+#: class-wc-gateway-afterpay-nl-business-rest.php:195
+#: class-wc-gateway-afterpay-se-installments.php:201
+#: class-wc-gateway-afterpay-dk-campaign.php:195
+#: class-wc-gateway-afterpay-at-installments.php:207
+#: class-wc-gateway-afterpay-se-campaign.php:196
+msgid ""
+"Enable or disable test mode. Use the test option to test with API keys from"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:325
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:329
+#: class-wc-gateway-afterpay-dk-flex.php:334
+#: class-wc-gateway-afterpay-de-directdebit.php:367
+#: class-wc-gateway-afterpay-se-openinvoice.php:327
+#: class-wc-gateway-afterpay-de-openinvoice.php:367
+#: class-wc-gateway-afterpay-no-campaign.php:325
+#: class-wc-gateway-afterpay-fi-openinvoice.php:325
+#: class-wc-gateway-afterpay-at-directdebit.php:367
+#: class-wc-gateway-afterpay-nl-directdebit.php:335
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:327
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:325
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:329
+#: class-wc-gateway-afterpay-fi-installments.php:334
+#: class-wc-gateway-afterpay-be-openinvoice.php:337
+#: class-wc-gateway-afterpay-dk-openinvoice.php:326
+#: class-wc-gateway-afterpay-no-installments.php:332
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:326
+#: class-wc-gateway-afterpay-nl-business.php:323
+#: class-wc-gateway-afterpay-nl-openinvoice.php:346
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:329
+#: class-wc-gateway-afterpay-no-openinvoice.php:325
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:346
+#: class-wc-gateway-afterpay-de-installments.php:370
+#: class-wc-gateway-afterpay-nl-business-extra.php:323
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:325
+#: class-wc-gateway-afterpay-ch-openinvoice.php:366
+#: class-wc-gateway-afterpay-nl-payinx.php:336
+#: class-wc-gateway-afterpay-no-flex.php:334
+#: class-wc-gateway-afterpay-at-openinvoice.php:367
+#: class-wc-gateway-afterpay-fi-flex.php:334
+#: class-wc-gateway-afterpay-se-flex.php:334
+#: class-wc-gateway-afterpay-dk-installments.php:332
+#: class-wc-gateway-afterpay-nl-business-rest.php:319
+#: class-wc-gateway-afterpay-se-installments.php:332
+#: class-wc-gateway-afterpay-dk-campaign.php:326
+#: class-wc-gateway-afterpay-at-installments.php:369
+#: class-wc-gateway-afterpay-se-campaign.php:327
+msgid "Enable refunding"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:323
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:327
+#: class-wc-gateway-afterpay-dk-flex.php:332
+#: class-wc-gateway-afterpay-de-directdebit.php:365
+#: class-wc-gateway-afterpay-se-openinvoice.php:325
+#: class-wc-gateway-afterpay-de-openinvoice.php:365
+#: class-wc-gateway-afterpay-no-campaign.php:323
+#: class-wc-gateway-afterpay-fi-openinvoice.php:323
+#: class-wc-gateway-afterpay-at-directdebit.php:365
+#: class-wc-gateway-afterpay-nl-directdebit.php:333
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:325
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:323
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:327
+#: class-wc-gateway-afterpay-fi-installments.php:332
+#: class-wc-gateway-afterpay-be-openinvoice.php:335
+#: class-wc-gateway-afterpay-dk-openinvoice.php:324
+#: class-wc-gateway-afterpay-no-installments.php:330
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:324
+#: class-wc-gateway-afterpay-nl-business.php:321
+#: class-wc-gateway-afterpay-nl-openinvoice.php:344
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:327
+#: class-wc-gateway-afterpay-no-openinvoice.php:323
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:344
+#: class-wc-gateway-afterpay-de-installments.php:368
+#: class-wc-gateway-afterpay-nl-business-extra.php:321
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:323
+#: class-wc-gateway-afterpay-ch-openinvoice.php:364
+#: class-wc-gateway-afterpay-nl-payinx.php:334
+#: class-wc-gateway-afterpay-no-flex.php:332
+#: class-wc-gateway-afterpay-at-openinvoice.php:365
+#: class-wc-gateway-afterpay-fi-flex.php:332
+#: class-wc-gateway-afterpay-se-flex.php:332
+#: class-wc-gateway-afterpay-dk-installments.php:330
+#: class-wc-gateway-afterpay-nl-business-rest.php:317
+#: class-wc-gateway-afterpay-se-installments.php:330
+#: class-wc-gateway-afterpay-dk-campaign.php:324
+#: class-wc-gateway-afterpay-at-installments.php:367
+#: class-wc-gateway-afterpay-se-campaign.php:325
+msgid "Enable refunds"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-openinvoice.php:159
+msgid "Enable Riverty Austria 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-directdebit.php:159
+msgid "Enable Riverty Austria Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-installments.php:161
+msgid "Enable Riverty Austria Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:149
+msgid "Enable Riverty Belgium 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-be-openinvoice.php:150
+msgid "Enable Riverty Belgium 14-day invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-openinvoice.php:149
+msgid "Enable Riverty Denmark 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:149
+msgid "Enable Riverty Denmark B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-campaign.php:149
+msgid "Enable Riverty Denmark Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-installments.php:155
+msgid "Enable Riverty Denmark Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-flex.php:157
+msgid "Enable Riverty Denmark Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-openinvoice.php:148
+msgid "Enable Riverty Finland 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:148
+msgid "Enable Riverty Finland B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:148
+msgid "Enable Riverty Finland Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-installments.php:157
+msgid "Enable Riverty Finland Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-flex.php:157
+msgid "Enable Riverty Finland Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-openinvoice.php:159
+msgid "Enable Riverty Germany 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:159
+msgid "Enable Riverty Germany Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-installments.php:162
+msgid "Enable Riverty Germany Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:149
+msgid "Enable Riverty Netherlands 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice.php:150
+msgid "Enable Riverty Netherlands 14-day invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:150
+msgid "Enable Riverty Netherlands 14-day invoice extra (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business-rest.php:149
+msgid "Enable Riverty Netherlands B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business.php:146
+msgid "Enable Riverty Netherlands B2B invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business-extra.php:146
+msgid "Enable Riverty Netherlands B2B invoice extra (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:149
+msgid "Enable Riverty Netherlands Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:148
+msgid "Enable Riverty Netherlands Direct Debit (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-payinx.php:156
+msgid "Enable Riverty Netherlands Pay In 3"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-openinvoice.php:148
+msgid "Enable Riverty Norway 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:148
+msgid "Enable Riverty Norway B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-campaign.php:148
+msgid "Enable Riverty Norway Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-installments.php:155
+msgid "Enable Riverty Norway Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-flex.php:157
+msgid "Enable Riverty Norway Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-openinvoice.php:150
+msgid "Enable Riverty Sweden 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:150
+msgid "Enable Riverty Sweden B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-campaign.php:150
+msgid "Enable Riverty Sweden Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-installments.php:155
+msgid "Enable Riverty Sweden Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-flex.php:157
+msgid "Enable Riverty Sweden Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-ch-openinvoice.php:158
+msgid "Enable Riverty Switzerland 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:146
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:147
+#: class-wc-gateway-afterpay-dk-flex.php:155
+#: class-wc-gateway-afterpay-de-directdebit.php:157
+#: class-wc-gateway-afterpay-se-openinvoice.php:148
+#: class-wc-gateway-afterpay-de-openinvoice.php:157
+#: class-wc-gateway-afterpay-no-campaign.php:146
+#: class-wc-gateway-afterpay-fi-openinvoice.php:146
+#: class-wc-gateway-afterpay-at-directdebit.php:157
+#: class-wc-gateway-afterpay-nl-directdebit.php:146
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:148
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:146
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:147
+#: class-wc-gateway-afterpay-fi-installments.php:155
+#: class-wc-gateway-afterpay-be-openinvoice.php:148
+#: class-wc-gateway-afterpay-dk-openinvoice.php:147
+#: class-wc-gateway-afterpay-no-installments.php:153
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:147
+#: class-wc-gateway-afterpay-nl-business.php:144
+#: class-wc-gateway-afterpay-nl-openinvoice.php:148
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:147
+#: class-wc-gateway-afterpay-no-openinvoice.php:146
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:148
+#: class-wc-gateway-afterpay-de-installments.php:160
+#: class-wc-gateway-afterpay-nl-business-extra.php:144
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:146
+#: class-wc-gateway-afterpay-ch-openinvoice.php:156
+#: class-wc-gateway-afterpay-nl-payinx.php:154
+#: class-wc-gateway-afterpay-no-flex.php:155
+#: class-wc-gateway-afterpay-at-openinvoice.php:157
+#: class-wc-gateway-afterpay-fi-flex.php:155
+#: class-wc-gateway-afterpay-se-flex.php:155
+#: class-wc-gateway-afterpay-dk-installments.php:153
+#: class-wc-gateway-afterpay-nl-business-rest.php:147
+#: class-wc-gateway-afterpay-se-installments.php:153
+#: class-wc-gateway-afterpay-dk-campaign.php:147
+#: class-wc-gateway-afterpay-at-installments.php:159
+#: class-wc-gateway-afterpay-se-campaign.php:148
+msgid "Enable/Disable"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:513
+msgid "Enter your credentials"
+msgstr "Tast inn dine opplysninger"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:192
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:193
+#: class-wc-gateway-afterpay-dk-flex.php:201
+#: class-wc-gateway-afterpay-de-directdebit.php:203
+#: class-wc-gateway-afterpay-se-openinvoice.php:194
+#: class-wc-gateway-afterpay-de-openinvoice.php:203
+#: class-wc-gateway-afterpay-no-campaign.php:192
+#: class-wc-gateway-afterpay-fi-openinvoice.php:192
+#: class-wc-gateway-afterpay-at-directdebit.php:203
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:194
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:192
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:193
+#: class-wc-gateway-afterpay-fi-installments.php:201
+#: class-wc-gateway-afterpay-dk-openinvoice.php:193
+#: class-wc-gateway-afterpay-no-installments.php:199
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:193
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:193
+#: class-wc-gateway-afterpay-no-openinvoice.php:192
+#: class-wc-gateway-afterpay-de-installments.php:206
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:192
+#: class-wc-gateway-afterpay-ch-openinvoice.php:202
+#: class-wc-gateway-afterpay-nl-payinx.php:200
+#: class-wc-gateway-afterpay-no-flex.php:201
+#: class-wc-gateway-afterpay-at-openinvoice.php:203
+#: class-wc-gateway-afterpay-fi-flex.php:201
+#: class-wc-gateway-afterpay-se-flex.php:201
+#: class-wc-gateway-afterpay-dk-installments.php:199
+#: class-wc-gateway-afterpay-nl-business-rest.php:193
+#: class-wc-gateway-afterpay-se-installments.php:199
+#: class-wc-gateway-afterpay-dk-campaign.php:193
+#: class-wc-gateway-afterpay-at-installments.php:205
+#: class-wc-gateway-afterpay-se-campaign.php:194
+msgid "Environment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:257
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:261
+#: class-wc-gateway-afterpay-dk-flex.php:266
+#: class-wc-gateway-afterpay-de-directdebit.php:278
+#: class-wc-gateway-afterpay-se-openinvoice.php:259
+#: class-wc-gateway-afterpay-de-openinvoice.php:278
+#: class-wc-gateway-afterpay-no-campaign.php:257
+#: class-wc-gateway-afterpay-fi-openinvoice.php:257
+#: class-wc-gateway-afterpay-at-directdebit.php:278
+#: class-wc-gateway-afterpay-nl-directdebit.php:274
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:259
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:257
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:261
+#: class-wc-gateway-afterpay-fi-installments.php:266
+#: class-wc-gateway-afterpay-be-openinvoice.php:276
+#: class-wc-gateway-afterpay-dk-openinvoice.php:258
+#: class-wc-gateway-afterpay-no-installments.php:264
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:258
+#: class-wc-gateway-afterpay-nl-business.php:262
+#: class-wc-gateway-afterpay-nl-openinvoice.php:285
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:261
+#: class-wc-gateway-afterpay-no-openinvoice.php:257
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:285
+#: class-wc-gateway-afterpay-de-installments.php:281
+#: class-wc-gateway-afterpay-nl-business-extra.php:262
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:257
+#: class-wc-gateway-afterpay-ch-openinvoice.php:277
+#: class-wc-gateway-afterpay-nl-payinx.php:268
+#: class-wc-gateway-afterpay-no-flex.php:266
+#: class-wc-gateway-afterpay-at-openinvoice.php:278
+#: class-wc-gateway-afterpay-fi-flex.php:266
+#: class-wc-gateway-afterpay-se-flex.php:266
+#: class-wc-gateway-afterpay-dk-installments.php:264
+#: class-wc-gateway-afterpay-nl-business-rest.php:251
+#: class-wc-gateway-afterpay-se-installments.php:264
+#: class-wc-gateway-afterpay-dk-campaign.php:258
+#: class-wc-gateway-afterpay-at-installments.php:280
+#: class-wc-gateway-afterpay-se-campaign.php:259
+msgid "Exclude shipping methods"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Extends WooCommerce. Provides a <a href=\"http://www.riverty.com\" "
+"target=\"_blank\">Riverty</a> payment gateway for WooCommerce. Riverty is "
+"the new AfterPay."
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:158
+#: class-wc-gateway-afterpay-be-openinvoice.php:160
+#: class-wc-gateway-afterpay-nl-business.php:156
+#: class-wc-gateway-afterpay-nl-openinvoice.php:160
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:160
+#: class-wc-gateway-afterpay-nl-business-extra.php:156
+msgid "Extra information"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:160
+#: class-wc-gateway-afterpay-be-openinvoice.php:162
+#: class-wc-gateway-afterpay-nl-business.php:158
+#: class-wc-gateway-afterpay-nl-openinvoice.php:162
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:162
+#: class-wc-gateway-afterpay-nl-business-extra.php:158
+msgid "Extra information to show to the customer in the checkout"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:831
+msgid "Female"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:332
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:336
+#: class-wc-gateway-afterpay-dk-flex.php:341
+#: class-wc-gateway-afterpay-de-directdebit.php:374
+#: class-wc-gateway-afterpay-se-openinvoice.php:334
+#: class-wc-gateway-afterpay-de-openinvoice.php:374
+#: class-wc-gateway-afterpay-no-campaign.php:332
+#: class-wc-gateway-afterpay-fi-openinvoice.php:332
+#: class-wc-gateway-afterpay-at-directdebit.php:374
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:334
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:332
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:336
+#: class-wc-gateway-afterpay-fi-installments.php:341
+#: class-wc-gateway-afterpay-dk-openinvoice.php:333
+#: class-wc-gateway-afterpay-no-installments.php:339
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:333
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:336
+#: class-wc-gateway-afterpay-no-openinvoice.php:332
+#: class-wc-gateway-afterpay-de-installments.php:377
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:332
+#: class-wc-gateway-afterpay-ch-openinvoice.php:373
+#: class-wc-gateway-afterpay-nl-payinx.php:343
+#: class-wc-gateway-afterpay-no-flex.php:341
+#: class-wc-gateway-afterpay-at-openinvoice.php:374
+#: class-wc-gateway-afterpay-fi-flex.php:341
+#: class-wc-gateway-afterpay-se-flex.php:341
+#: class-wc-gateway-afterpay-dk-installments.php:339
+#: class-wc-gateway-afterpay-nl-business-rest.php:326
+#: class-wc-gateway-afterpay-se-installments.php:339
+#: class-wc-gateway-afterpay-dk-campaign.php:333
+#: class-wc-gateway-afterpay-at-installments.php:376
+#: class-wc-gateway-afterpay-se-campaign.php:334
+msgid ""
+"Fill in the tax percentage of items refunded from Woocommerce, f.e. 21 in "
+"case of 21%."
+msgstr ""
+
+#: class-afterpay-coupon.php:83
+msgid "Fill this field with corresponding CIS code"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-installments.php:425
+#: class-wc-gateway-afterpay-no-installments.php:424
+#: class-wc-gateway-afterpay-de-installments.php:527
+#: class-wc-gateway-afterpay-dk-installments.php:423
+#: class-wc-gateway-afterpay-se-installments.php:423
+#: class-wc-gateway-afterpay-at-installments.php:526
+#, php-format
+msgid "For %s months"
+msgstr "i %s måneder"
+
+#: class-wc-gateway-afterpay-base-rest.php:311
+msgid "for businesses"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:828
+msgid "Gender"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:870
+msgid "Gender is a required field"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:599
+#: class-wc-gateway-afterpay-base.php:604
+msgid "General Terms and Conditions"
+msgstr "Generelle betingelser "
+
+#: class-wc-gateway-afterpay-base.php:605
+msgid "here"
+msgstr "her"
+
+#: class-wc-gateway-afterpay-fi-installments.php:441
+#: class-wc-gateway-afterpay-no-installments.php:440
+#: class-wc-gateway-afterpay-dk-installments.php:439
+#: class-wc-gateway-afterpay-se-installments.php:439
+#, php-format
+msgid ""
+"Here you will find the <a class=\"afterpay_terms_link\" href=\"%s\" "
+"target=\"_blank\">European Standard Information for Consumer Credit</a>."
+msgstr ""
+"Les <a class=\"afterpay_terms_link\" href=\"%s\" target=\"_blank\">Standard "
+"European Consumer Credit Information</a>."
+
+#: class-wc-gateway-afterpay-de-installments.php:663
+#: class-wc-gateway-afterpay-at-installments.php:675
+#, php-format
+msgid ""
+"Here you will find the mandatory information according to <a "
+"class=\"afterpay_terms_link\" href=\"https://documents.myafterpay."
+"com/consumer-terms-conditions/de_DE/default/bgb507\" target=\"_blank\">§ 507 "
+"BGB</a> and the <a class=\"afterpay_terms_link\" href=\"%s\" "
+"target=\"_blank\">European Standard Information for Consumer Credit</a>."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.riverty.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.riverty.com"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:708
+msgid ""
+"I agree to the %1 I have taken note of %2 and I agree that Riverty will take "
+"Merchant and Buyer protection measures (e.g. by using end device information "
+"by setting cookies)."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:601
+#| msgid ""
+#| "I have read and accept the %1 for the AfterPay payment method and the %2 "
+#| "of AfterPay."
+msgid ""
+"I have read and accept the %1 for the Riverty payment method and the %2 of "
+"Riverty."
+msgstr "Jeg har lest %1 for Riverty og %2."
+
+#: class-wc-gateway-afterpay-base.php:509
+#, fuzzy
+#| msgid "In order to guarantee a secure checkout, we need to verify your "
+msgid "In order to guarantee a secure checkout, we need to verify your %1"
+msgstr "For å kunne tilby en sikker utsjekk, trenger vi ditt %1"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:213
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:214
+#: class-wc-gateway-afterpay-dk-flex.php:222
+#: class-wc-gateway-afterpay-de-directdebit.php:224
+#: class-wc-gateway-afterpay-se-openinvoice.php:215
+#: class-wc-gateway-afterpay-de-openinvoice.php:224
+#: class-wc-gateway-afterpay-no-campaign.php:213
+#: class-wc-gateway-afterpay-fi-openinvoice.php:213
+#: class-wc-gateway-afterpay-at-directdebit.php:224
+#: class-wc-gateway-afterpay-nl-directdebit.php:227
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:215
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:213
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:214
+#: class-wc-gateway-afterpay-fi-installments.php:222
+#: class-wc-gateway-afterpay-be-openinvoice.php:229
+#: class-wc-gateway-afterpay-dk-openinvoice.php:214
+#: class-wc-gateway-afterpay-no-installments.php:220
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:214
+#: class-wc-gateway-afterpay-nl-business.php:225
+#: class-wc-gateway-afterpay-nl-openinvoice.php:238
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:214
+#: class-wc-gateway-afterpay-no-openinvoice.php:213
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:238
+#: class-wc-gateway-afterpay-de-installments.php:227
+#: class-wc-gateway-afterpay-nl-business-extra.php:225
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:213
+#: class-wc-gateway-afterpay-ch-openinvoice.php:223
+#: class-wc-gateway-afterpay-nl-payinx.php:221
+#: class-wc-gateway-afterpay-no-flex.php:222
+#: class-wc-gateway-afterpay-at-openinvoice.php:224
+#: class-wc-gateway-afterpay-fi-flex.php:222
+#: class-wc-gateway-afterpay-se-flex.php:222
+#: class-wc-gateway-afterpay-dk-installments.php:220
+#: class-wc-gateway-afterpay-nl-business-rest.php:214
+#: class-wc-gateway-afterpay-se-installments.php:220
+#: class-wc-gateway-afterpay-dk-campaign.php:214
+#: class-wc-gateway-afterpay-at-installments.php:226
+#: class-wc-gateway-afterpay-se-campaign.php:215
+msgid "IP restriction"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:174
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:175
+#: class-wc-gateway-afterpay-dk-flex.php:183
+#: class-wc-gateway-afterpay-de-directdebit.php:185
+#: class-wc-gateway-afterpay-se-openinvoice.php:176
+#: class-wc-gateway-afterpay-de-openinvoice.php:185
+#: class-wc-gateway-afterpay-no-campaign.php:174
+#: class-wc-gateway-afterpay-fi-openinvoice.php:174
+#: class-wc-gateway-afterpay-at-directdebit.php:185
+#: class-wc-gateway-afterpay-nl-directdebit.php:191
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:176
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:174
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:175
+#: class-wc-gateway-afterpay-fi-installments.php:183
+#: class-wc-gateway-afterpay-be-openinvoice.php:193
+#: class-wc-gateway-afterpay-dk-openinvoice.php:175
+#: class-wc-gateway-afterpay-no-installments.php:181
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:175
+#: class-wc-gateway-afterpay-nl-business.php:189
+#: class-wc-gateway-afterpay-nl-openinvoice.php:193
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:175
+#: class-wc-gateway-afterpay-no-openinvoice.php:174
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:193
+#: class-wc-gateway-afterpay-de-installments.php:188
+#: class-wc-gateway-afterpay-nl-business-extra.php:189
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:174
+#: class-wc-gateway-afterpay-ch-openinvoice.php:184
+#: class-wc-gateway-afterpay-nl-payinx.php:182
+#: class-wc-gateway-afterpay-no-flex.php:183
+#: class-wc-gateway-afterpay-at-openinvoice.php:185
+#: class-wc-gateway-afterpay-fi-flex.php:183
+#: class-wc-gateway-afterpay-se-flex.php:183
+#: class-wc-gateway-afterpay-dk-installments.php:181
+#: class-wc-gateway-afterpay-nl-business-rest.php:175
+#: class-wc-gateway-afterpay-se-installments.php:181
+#: class-wc-gateway-afterpay-dk-campaign.php:175
+#: class-wc-gateway-afterpay-at-installments.php:187
+#: class-wc-gateway-afterpay-se-campaign.php:176
+msgid "Lower threshold"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:830
+msgid "Male"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:380
+msgid "Manage all your payments in the Riverty app%1"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:370
+#: class-wc-gateway-afterpay-base.php:407
+#: class-wc-gateway-afterpay-base.php:415
+#| msgid "Manage all your payments in the AfterPay app."
+msgid "Manage all your payments in the Riverty app."
+msgstr "Håndter alle dine betalinger i MyRiverty."
+
+#: class-wc-gateway-afterpay-fi-campaign.php:285
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:289
+#: class-wc-gateway-afterpay-dk-flex.php:294 class-wc-gateway-afterpay.php:706
+#: class-wc-gateway-afterpay-de-directdebit.php:327
+#: class-wc-gateway-afterpay-se-openinvoice.php:287
+#: class-wc-gateway-afterpay-de-openinvoice.php:327
+#: class-wc-gateway-afterpay-no-campaign.php:285
+#: class-wc-gateway-afterpay-fi-openinvoice.php:285
+#: class-wc-gateway-afterpay-at-directdebit.php:327
+#: class-wc-gateway-afterpay-nl-directdebit.php:164
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:287
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:285
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:289
+#: class-wc-gateway-afterpay-fi-installments.php:294
+#: class-wc-gateway-afterpay-be-openinvoice.php:166
+#: class-wc-gateway-afterpay-dk-openinvoice.php:286
+#: class-wc-gateway-afterpay-no-installments.php:292
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:286
+#: class-wc-gateway-afterpay-nl-business.php:162
+#: class-wc-gateway-afterpay-nl-openinvoice.php:166
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:289
+#: class-wc-gateway-afterpay-no-openinvoice.php:285
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:166
+#: class-wc-gateway-afterpay-de-installments.php:330
+#: class-wc-gateway-afterpay-nl-business-extra.php:162
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:285
+#: class-wc-gateway-afterpay-ch-openinvoice.php:326
+#: class-wc-gateway-afterpay-nl-payinx.php:296
+#: class-wc-gateway-afterpay-no-flex.php:294
+#: class-wc-gateway-afterpay-at-openinvoice.php:327
+#: class-wc-gateway-afterpay-fi-flex.php:294
+#: class-wc-gateway-afterpay-se-flex.php:294
+#: class-wc-gateway-afterpay-dk-installments.php:292
+#: class-wc-gateway-afterpay-nl-business-rest.php:279
+#: class-wc-gateway-afterpay-se-installments.php:292
+#: class-wc-gateway-afterpay-dk-campaign.php:286
+#: class-wc-gateway-afterpay-at-installments.php:329
+#: class-wc-gateway-afterpay-se-campaign.php:287
+msgid "Merchant ID"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice.php:229
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:229
+msgid "Notification mail"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:392
+msgid "or"
+msgstr "eller"
+
+#: class-wc-gateway-afterpay.php:322 class-wc-gateway-afterpay.php:417
+msgid "Order is accepted after Riverty SCA"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:406
+msgid "Pay in %1 instalments, starting at %2 per month."
+msgstr "Betal %2 per måned."
+
+#: class-wc-gateway-afterpay-base.php:369
+msgid "Pay within 14 days. No fees."
+msgstr "Betal innen 14 dager. Ingen gebyrer."
+
+#: class-wc-gateway-afterpay-base.php:1033
+msgid "PAYMENTCOST"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-installments.php:424
+#: class-wc-gateway-afterpay-no-installments.php:423
+#: class-wc-gateway-afterpay-de-installments.php:526
+#: class-wc-gateway-afterpay-dk-installments.php:422
+#: class-wc-gateway-afterpay-se-installments.php:422
+#: class-wc-gateway-afterpay-at-installments.php:525
+msgid "per month"
+msgstr "/ mnd"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:373
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:467
+#: class-wc-gateway-afterpay-dk-flex.php:407
+#: class-wc-gateway-afterpay-de-directdebit.php:580
+#: class-wc-gateway-afterpay-base.php:821
+#: class-wc-gateway-afterpay-se-openinvoice.php:374
+#: class-wc-gateway-afterpay-de-openinvoice.php:500
+#: class-wc-gateway-afterpay-no-campaign.php:373
+#: class-wc-gateway-afterpay-fi-openinvoice.php:372
+#: class-wc-gateway-afterpay-at-directdebit.php:592
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:378
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:376
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:383
+#: class-wc-gateway-afterpay-fi-installments.php:461
+#: class-wc-gateway-afterpay-dk-openinvoice.php:373
+#: class-wc-gateway-afterpay-no-installments.php:460
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:377
+#: class-wc-gateway-afterpay-nl-business.php:367
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:383
+#: class-wc-gateway-afterpay-no-openinvoice.php:372
+#: class-wc-gateway-afterpay-de-installments.php:649
+#: class-wc-gateway-afterpay-nl-business-extra.php:367
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:376
+#: class-wc-gateway-afterpay-ch-openinvoice.php:499
+#: class-wc-gateway-afterpay-nl-payinx.php:391
+#: class-wc-gateway-afterpay-no-flex.php:407
+#: class-wc-gateway-afterpay-at-openinvoice.php:500
+#: class-wc-gateway-afterpay-base-rest.php:461
+#: class-wc-gateway-afterpay-fi-flex.php:407
+#: class-wc-gateway-afterpay-se-flex.php:407
+#: class-wc-gateway-afterpay-dk-installments.php:459
+#: class-wc-gateway-afterpay-nl-business-rest.php:367
+#: class-wc-gateway-afterpay-se-installments.php:459
+#: class-wc-gateway-afterpay-dk-campaign.php:374
+#: class-wc-gateway-afterpay-at-installments.php:660
+#: class-wc-gateway-afterpay-se-campaign.php:375
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: class-wc-gateway-afterpay-base.php:490
+msgid "phone number"
+msgstr "telefonnummer"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:396
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:492
+#: class-wc-gateway-afterpay-dk-flex.php:430
+#: class-wc-gateway-afterpay-de-directdebit.php:610
+#: class-wc-gateway-afterpay-base.php:866
+#: class-wc-gateway-afterpay-se-openinvoice.php:397
+#: class-wc-gateway-afterpay-de-openinvoice.php:530
+#: class-wc-gateway-afterpay-no-campaign.php:396
+#: class-wc-gateway-afterpay-fi-openinvoice.php:395
+#: class-wc-gateway-afterpay-at-directdebit.php:622
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:407
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:405
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:406
+#: class-wc-gateway-afterpay-fi-installments.php:484
+#: class-wc-gateway-afterpay-dk-openinvoice.php:396
+#: class-wc-gateway-afterpay-no-installments.php:483
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:406
+#: class-wc-gateway-afterpay-nl-business.php:399
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:408
+#: class-wc-gateway-afterpay-no-openinvoice.php:395
+#: class-wc-gateway-afterpay-de-installments.php:695
+#: class-wc-gateway-afterpay-nl-business-extra.php:399
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:405
+#: class-wc-gateway-afterpay-ch-openinvoice.php:529
+#: class-wc-gateway-afterpay-nl-payinx.php:416
+#: class-wc-gateway-afterpay-no-flex.php:430
+#: class-wc-gateway-afterpay-at-openinvoice.php:530
+#: class-wc-gateway-afterpay-base-rest.php:484
+#: class-wc-gateway-afterpay-fi-flex.php:430
+#: class-wc-gateway-afterpay-se-flex.php:430
+#: class-wc-gateway-afterpay-dk-installments.php:482
+#: class-wc-gateway-afterpay-nl-business-rest.php:399
+#: class-wc-gateway-afterpay-se-installments.php:482
+#: class-wc-gateway-afterpay-dk-campaign.php:397
+#: class-wc-gateway-afterpay-at-installments.php:707
+#: class-wc-gateway-afterpay-se-campaign.php:398
+msgid "Phone number is a required field"
+msgstr "Telefonnummer er et obligatorisk felt"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:402
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:504
+#: class-wc-gateway-afterpay-dk-flex.php:433
+#: class-wc-gateway-afterpay-de-directdebit.php:625
+#: class-wc-gateway-afterpay-base.php:874
+#: class-wc-gateway-afterpay-se-openinvoice.php:400
+#: class-wc-gateway-afterpay-de-openinvoice.php:542
+#: class-wc-gateway-afterpay-no-campaign.php:402
+#: class-wc-gateway-afterpay-fi-openinvoice.php:401
+#: class-wc-gateway-afterpay-at-directdebit.php:637
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:410
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:408
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:415
+#: class-wc-gateway-afterpay-fi-installments.php:487
+#: class-wc-gateway-afterpay-dk-openinvoice.php:399
+#: class-wc-gateway-afterpay-no-installments.php:486
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:409
+#: class-wc-gateway-afterpay-nl-business.php:396
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:417
+#: class-wc-gateway-afterpay-no-openinvoice.php:401
+#: class-wc-gateway-afterpay-de-installments.php:713
+#: class-wc-gateway-afterpay-nl-business-extra.php:396
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:408
+#: class-wc-gateway-afterpay-ch-openinvoice.php:541
+#: class-wc-gateway-afterpay-nl-payinx.php:425
+#: class-wc-gateway-afterpay-no-flex.php:433
+#: class-wc-gateway-afterpay-at-openinvoice.php:542
+#: class-wc-gateway-afterpay-base-rest.php:487
+#: class-wc-gateway-afterpay-fi-flex.php:433
+#: class-wc-gateway-afterpay-se-flex.php:433
+#: class-wc-gateway-afterpay-dk-installments.php:485
+#: class-wc-gateway-afterpay-nl-business-rest.php:396
+#: class-wc-gateway-afterpay-se-installments.php:485
+#: class-wc-gateway-afterpay-dk-campaign.php:400
+#: class-wc-gateway-afterpay-at-installments.php:725
+#: class-wc-gateway-afterpay-se-campaign.php:401
+msgid ""
+"Please accept the General Terms and Conditions for the Riverty payment method"
+msgstr "Vennligst godta Riverty betalingsmåte vilkår og betingelser"
+
+#: class-wc-gateway-afterpay-fi-installments.php:493
+#: class-wc-gateway-afterpay-no-installments.php:492
+#: class-wc-gateway-afterpay-de-installments.php:704
+#: class-wc-gateway-afterpay-dk-installments.php:491
+#: class-wc-gateway-afterpay-se-installments.php:491
+#: class-wc-gateway-afterpay-at-installments.php:716
+msgid "Please choose an installment plan."
+msgstr "Velg en avdragsordning"
+
+#: class-wc-gateway-afterpay-base.php:750
+msgid "Please make sure that your date of birth is correct."
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:173
+#: class-wc-gateway-afterpay-be-openinvoice.php:175
+#: class-wc-gateway-afterpay-nl-business.php:171
+#: class-wc-gateway-afterpay-nl-openinvoice.php:175
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:175
+#: class-wc-gateway-afterpay-nl-business-extra.php:171
+msgid "Portfolio number"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:182
+#: class-wc-gateway-afterpay-be-openinvoice.php:184
+#: class-wc-gateway-afterpay-nl-business.php:180
+#: class-wc-gateway-afterpay-nl-openinvoice.php:184
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:184
+#: class-wc-gateway-afterpay-nl-business-extra.php:180
+msgid "Portfolio password"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:600
+msgid "Privacy Policy"
+msgstr "personvernpolicyen"
+
+#: class-wc-gateway-afterpay-base.php:1489
+#: class-wc-gateway-afterpay-base-rest.php:1193
+msgid "Problem with capturing order."
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:165
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:166
+#: class-wc-gateway-afterpay-dk-flex.php:174
+#: class-wc-gateway-afterpay-de-directdebit.php:176
+#: class-wc-gateway-afterpay-se-openinvoice.php:167
+#: class-wc-gateway-afterpay-de-openinvoice.php:176
+#: class-wc-gateway-afterpay-no-campaign.php:165
+#: class-wc-gateway-afterpay-fi-openinvoice.php:165
+#: class-wc-gateway-afterpay-at-directdebit.php:176
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:167
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:165
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:166
+#: class-wc-gateway-afterpay-fi-installments.php:174
+#: class-wc-gateway-afterpay-dk-openinvoice.php:166
+#: class-wc-gateway-afterpay-no-installments.php:172
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:166
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:166
+#: class-wc-gateway-afterpay-no-openinvoice.php:165
+#: class-wc-gateway-afterpay-de-installments.php:179
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:165
+#: class-wc-gateway-afterpay-ch-openinvoice.php:175
+#: class-wc-gateway-afterpay-nl-payinx.php:173
+#: class-wc-gateway-afterpay-no-flex.php:174
+#: class-wc-gateway-afterpay-at-openinvoice.php:176
+#: class-wc-gateway-afterpay-fi-flex.php:174
+#: class-wc-gateway-afterpay-se-flex.php:174
+#: class-wc-gateway-afterpay-dk-installments.php:172
+#: class-wc-gateway-afterpay-nl-business-rest.php:166
+#: class-wc-gateway-afterpay-se-installments.php:172
+#: class-wc-gateway-afterpay-dk-campaign.php:166
+#: class-wc-gateway-afterpay-at-installments.php:178
+#: class-wc-gateway-afterpay-se-campaign.php:167
+msgid "Production mode API key"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:371
+#: class-wc-gateway-afterpay-base.php:408
+#: class-wc-gateway-afterpay-base.php:416
+msgid "Receive your order before payment."
+msgstr "Få dine varer før du betaler."
+
+#: class-wc-gateway-afterpay-fi-campaign.php:330
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:334
+#: class-wc-gateway-afterpay-dk-flex.php:339
+#: class-wc-gateway-afterpay-de-directdebit.php:372
+#: class-wc-gateway-afterpay-se-openinvoice.php:332
+#: class-wc-gateway-afterpay-de-openinvoice.php:372
+#: class-wc-gateway-afterpay-no-campaign.php:330
+#: class-wc-gateway-afterpay-fi-openinvoice.php:330
+#: class-wc-gateway-afterpay-at-directdebit.php:372
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:332
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:330
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:334
+#: class-wc-gateway-afterpay-fi-installments.php:339
+#: class-wc-gateway-afterpay-dk-openinvoice.php:331
+#: class-wc-gateway-afterpay-no-installments.php:337
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:331
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:334
+#: class-wc-gateway-afterpay-no-openinvoice.php:330
+#: class-wc-gateway-afterpay-de-installments.php:375
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:330
+#: class-wc-gateway-afterpay-ch-openinvoice.php:371
+#: class-wc-gateway-afterpay-nl-payinx.php:341
+#: class-wc-gateway-afterpay-no-flex.php:339
+#: class-wc-gateway-afterpay-at-openinvoice.php:372
+#: class-wc-gateway-afterpay-fi-flex.php:339
+#: class-wc-gateway-afterpay-se-flex.php:339
+#: class-wc-gateway-afterpay-dk-installments.php:337
+#: class-wc-gateway-afterpay-nl-business-rest.php:324
+#: class-wc-gateway-afterpay-se-installments.php:337
+#: class-wc-gateway-afterpay-dk-campaign.php:331
+#: class-wc-gateway-afterpay-at-installments.php:374
+#: class-wc-gateway-afterpay-se-campaign.php:332
+msgid "Refund tax percentage"
+msgstr ""
+
+#. Author of the plugin
+msgid "Riverty"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-openinvoice.php:38
+msgid "Riverty Austria 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-directdebit.php:38
+msgid "Riverty Austria Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-at-installments.php:38
+msgid "Riverty Austria Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:38
+msgid "Riverty Belgium 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-be-openinvoice.php:37
+msgid "Riverty Belgium 14-day invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:341 class-wc-gateway-afterpay.php:427
+#: class-wc-gateway-afterpay-base.php:1315
+#: class-wc-gateway-afterpay-base-rest.php:993
+msgid ""
+"Riverty capture needed, since the Capture mode was set to(Based on "
+"Woocommerce Status) when the order was placed."
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-openinvoice.php:38
+msgid "Riverty Denmark 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:38
+msgid "Riverty Denmark B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-campaign.php:38
+msgid "Riverty Denmark Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-installments.php:38
+msgid "Riverty Denmark Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-dk-flex.php:38
+msgid "Riverty Denmark Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-openinvoice.php:38
+msgid "Riverty Finland 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:38
+msgid "Riverty Finland B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:38
+msgid "Riverty Finland Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-installments.php:38
+msgid "Riverty Finland Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-flex.php:38
+msgid "Riverty Finland Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-openinvoice.php:38
+msgid "Riverty Germany 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:38
+msgid "Riverty Germany Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-installments.php:38
+msgid "Riverty Germany Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:161
+#: class-wc-gateway-afterpay-fi-campaign.php:170
+#: class-wc-gateway-afterpay-fi-campaign.php:197
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:162
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:171
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:198
+#: class-wc-gateway-afterpay-dk-flex.php:170
+#: class-wc-gateway-afterpay-dk-flex.php:179
+#: class-wc-gateway-afterpay-dk-flex.php:206
+#: class-wc-gateway-afterpay-de-directdebit.php:172
+#: class-wc-gateway-afterpay-de-directdebit.php:181
+#: class-wc-gateway-afterpay-de-directdebit.php:208
+#: class-wc-gateway-afterpay-se-openinvoice.php:163
+#: class-wc-gateway-afterpay-se-openinvoice.php:172
+#: class-wc-gateway-afterpay-se-openinvoice.php:199
+#: class-wc-gateway-afterpay-de-openinvoice.php:172
+#: class-wc-gateway-afterpay-de-openinvoice.php:181
+#: class-wc-gateway-afterpay-de-openinvoice.php:208
+#: class-wc-gateway-afterpay-no-campaign.php:161
+#: class-wc-gateway-afterpay-no-campaign.php:170
+#: class-wc-gateway-afterpay-no-campaign.php:197
+#: class-wc-gateway-afterpay-fi-openinvoice.php:161
+#: class-wc-gateway-afterpay-fi-openinvoice.php:170
+#: class-wc-gateway-afterpay-fi-openinvoice.php:197
+#: class-wc-gateway-afterpay-at-directdebit.php:172
+#: class-wc-gateway-afterpay-at-directdebit.php:181
+#: class-wc-gateway-afterpay-at-directdebit.php:208
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:163
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:172
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:199
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:161
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:170
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:197
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:162
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:171
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:198
+#: class-wc-gateway-afterpay-fi-installments.php:170
+#: class-wc-gateway-afterpay-fi-installments.php:179
+#: class-wc-gateway-afterpay-fi-installments.php:206
+#: class-wc-gateway-afterpay-dk-openinvoice.php:162
+#: class-wc-gateway-afterpay-dk-openinvoice.php:171
+#: class-wc-gateway-afterpay-dk-openinvoice.php:198
+#: class-wc-gateway-afterpay-no-installments.php:168
+#: class-wc-gateway-afterpay-no-installments.php:177
+#: class-wc-gateway-afterpay-no-installments.php:204
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:162
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:171
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:198
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:162
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:171
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:198
+#: class-wc-gateway-afterpay-no-openinvoice.php:161
+#: class-wc-gateway-afterpay-no-openinvoice.php:170
+#: class-wc-gateway-afterpay-no-openinvoice.php:197
+#: class-wc-gateway-afterpay-de-installments.php:175
+#: class-wc-gateway-afterpay-de-installments.php:184
+#: class-wc-gateway-afterpay-de-installments.php:211
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:161
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:170
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:197
+#: class-wc-gateway-afterpay-ch-openinvoice.php:171
+#: class-wc-gateway-afterpay-ch-openinvoice.php:180
+#: class-wc-gateway-afterpay-ch-openinvoice.php:207
+#: class-wc-gateway-afterpay-nl-payinx.php:169
+#: class-wc-gateway-afterpay-nl-payinx.php:178
+#: class-wc-gateway-afterpay-nl-payinx.php:205
+#: class-wc-gateway-afterpay-no-flex.php:170
+#: class-wc-gateway-afterpay-no-flex.php:179
+#: class-wc-gateway-afterpay-no-flex.php:206
+#: class-wc-gateway-afterpay-at-openinvoice.php:172
+#: class-wc-gateway-afterpay-at-openinvoice.php:181
+#: class-wc-gateway-afterpay-at-openinvoice.php:208
+#: class-wc-gateway-afterpay-fi-flex.php:170
+#: class-wc-gateway-afterpay-fi-flex.php:179
+#: class-wc-gateway-afterpay-fi-flex.php:206
+#: class-wc-gateway-afterpay-se-flex.php:170
+#: class-wc-gateway-afterpay-se-flex.php:179
+#: class-wc-gateway-afterpay-se-flex.php:206
+#: class-wc-gateway-afterpay-dk-installments.php:168
+#: class-wc-gateway-afterpay-dk-installments.php:177
+#: class-wc-gateway-afterpay-dk-installments.php:204
+#: class-wc-gateway-afterpay-nl-business-rest.php:162
+#: class-wc-gateway-afterpay-nl-business-rest.php:171
+#: class-wc-gateway-afterpay-nl-business-rest.php:198
+#: class-wc-gateway-afterpay-se-installments.php:168
+#: class-wc-gateway-afterpay-se-installments.php:177
+#: class-wc-gateway-afterpay-se-installments.php:204
+#: class-wc-gateway-afterpay-dk-campaign.php:162
+#: class-wc-gateway-afterpay-dk-campaign.php:171
+#: class-wc-gateway-afterpay-dk-campaign.php:198
+#: class-wc-gateway-afterpay-at-installments.php:174
+#: class-wc-gateway-afterpay-at-installments.php:183
+#: class-wc-gateway-afterpay-at-installments.php:210
+#: class-wc-gateway-afterpay-se-campaign.php:163
+#: class-wc-gateway-afterpay-se-campaign.php:172
+#: class-wc-gateway-afterpay-se-campaign.php:199
+msgid "Riverty Merchant Portal"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:38
+msgid "Riverty Netherlands 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice.php:38
+msgid "Riverty Netherlands 14-day invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:38
+msgid "Riverty Netherlands 14-day invoice extra (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business-rest.php:38
+msgid "Riverty Netherlands B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business.php:38
+msgid "Riverty Netherlands B2B invoice (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business-extra.php:38
+msgid "Riverty Netherlands B2B invoice extra (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:38
+msgid "Riverty Netherlands Direct Debit"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:38
+msgid "Riverty Netherlands Direct Debit (Legacy SOAP)"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-payinx.php:38
+msgid "Riverty Netherlands Pay In 3"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-openinvoice.php:38
+msgid "Riverty Norway 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:38
+msgid "Riverty Norway B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-campaign.php:38
+msgid "Riverty Norway Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-installments.php:38
+msgid "Riverty Norway Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-flex.php:38
+msgid "Riverty Norway Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1487
+#: class-wc-gateway-afterpay-base-rest.php:1191
+msgid "Riverty payment captured."
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:418 class-wc-gateway-afterpay-base.php:1301
+#: class-wc-gateway-afterpay-base.php:1486
+#: class-wc-gateway-afterpay-base-rest.php:980
+#: class-wc-gateway-afterpay-base-rest.php:1190
+msgid "Riverty payment completed."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1361
+#: class-wc-gateway-afterpay-base-rest.php:1037
+msgid "Riverty payment denied."
+msgstr ""
+
+#. Name of the plugin
+msgid "Riverty payment gateway for Woocommerce"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1346
+#: class-wc-gateway-afterpay-base-rest.php:1008
+msgid "Riverty payment pending."
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-openinvoice.php:38
+msgid "Riverty Sweden 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:38
+msgid "Riverty Sweden B2B invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-campaign.php:38
+msgid "Riverty Sweden Campaign invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-installments.php:38
+msgid "Riverty Sweden Fixed instalments"
+msgstr ""
+
+#: class-wc-gateway-afterpay-se-flex.php:38
+msgid "Riverty Sweden Flex payment"
+msgstr ""
+
+#: class-wc-gateway-afterpay-ch-openinvoice.php:38
+msgid "Riverty Switzerland 14-day invoice"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:707
+msgid "Riverty's data protection information"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base-rest.php:1300
+msgid "Service Fee"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1023
+#: class-wc-gateway-afterpay-base-rest.php:1269
+msgid "SHIPPING"
+msgstr "FRAKTKOSTNAD"
+
+#: class-wc-gateway-afterpay-base.php:1024
+#: class-wc-gateway-afterpay-base-rest.php:1270
+msgid "Shipping"
+msgstr "Fraktkostnad"
+
+#: class-wc-gateway-afterpay.php:597
+#| msgid "Shop first, pay later with AfterPay"
+msgid "Shop first, pay later with Riverty"
+msgstr "Handle må, betal senere med Riverty"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:222
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:223
+#: class-wc-gateway-afterpay-dk-flex.php:231
+#: class-wc-gateway-afterpay-de-directdebit.php:233
+#: class-wc-gateway-afterpay-se-openinvoice.php:224
+#: class-wc-gateway-afterpay-de-openinvoice.php:233
+#: class-wc-gateway-afterpay-no-campaign.php:222
+#: class-wc-gateway-afterpay-fi-openinvoice.php:222
+#: class-wc-gateway-afterpay-at-directdebit.php:233
+#: class-wc-gateway-afterpay-nl-directdebit.php:236
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:224
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:222
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:223
+#: class-wc-gateway-afterpay-fi-installments.php:231
+#: class-wc-gateway-afterpay-be-openinvoice.php:238
+#: class-wc-gateway-afterpay-dk-openinvoice.php:223
+#: class-wc-gateway-afterpay-no-installments.php:229
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:223
+#: class-wc-gateway-afterpay-nl-business.php:234
+#: class-wc-gateway-afterpay-nl-openinvoice.php:247
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:223
+#: class-wc-gateway-afterpay-no-openinvoice.php:222
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:247
+#: class-wc-gateway-afterpay-de-installments.php:236
+#: class-wc-gateway-afterpay-nl-business-extra.php:234
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:222
+#: class-wc-gateway-afterpay-ch-openinvoice.php:232
+#: class-wc-gateway-afterpay-nl-payinx.php:230
+#: class-wc-gateway-afterpay-no-flex.php:231
+#: class-wc-gateway-afterpay-at-openinvoice.php:233
+#: class-wc-gateway-afterpay-fi-flex.php:231
+#: class-wc-gateway-afterpay-se-flex.php:231
+#: class-wc-gateway-afterpay-dk-installments.php:229
+#: class-wc-gateway-afterpay-nl-business-rest.php:223
+#: class-wc-gateway-afterpay-se-installments.php:229
+#: class-wc-gateway-afterpay-dk-campaign.php:223
+#: class-wc-gateway-afterpay-at-installments.php:235
+#: class-wc-gateway-afterpay-se-campaign.php:224
+msgid "Show advanced settings"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:251
+#: class-wc-gateway-afterpay-de-directdebit.php:261
+#: class-wc-gateway-afterpay-de-openinvoice.php:261
+#: class-wc-gateway-afterpay-at-directdebit.php:261
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:251
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:251
+#: class-wc-gateway-afterpay-de-installments.php:264
+#: class-wc-gateway-afterpay-ch-openinvoice.php:260
+#: class-wc-gateway-afterpay-nl-payinx.php:258
+#: class-wc-gateway-afterpay-at-openinvoice.php:261
+#: class-wc-gateway-afterpay-at-installments.php:263
+msgid "Show date of birth"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:264
+#: class-wc-gateway-afterpay-be-openinvoice.php:266
+#: class-wc-gateway-afterpay-nl-openinvoice.php:275
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:275
+msgid "Show gender"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:693
+msgid "Show invoice element on product page"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:680
+msgid "Show offer element on product page"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:240
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:241
+#: class-wc-gateway-afterpay-dk-flex.php:249
+#: class-wc-gateway-afterpay-de-directdebit.php:251
+#: class-wc-gateway-afterpay-se-openinvoice.php:242
+#: class-wc-gateway-afterpay-de-openinvoice.php:251
+#: class-wc-gateway-afterpay-no-campaign.php:240
+#: class-wc-gateway-afterpay-fi-openinvoice.php:240
+#: class-wc-gateway-afterpay-at-directdebit.php:251
+#: class-wc-gateway-afterpay-nl-directdebit.php:254
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:242
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:240
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:241
+#: class-wc-gateway-afterpay-fi-installments.php:249
+#: class-wc-gateway-afterpay-be-openinvoice.php:256
+#: class-wc-gateway-afterpay-dk-openinvoice.php:241
+#: class-wc-gateway-afterpay-no-installments.php:247
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:241
+#: class-wc-gateway-afterpay-nl-business.php:252
+#: class-wc-gateway-afterpay-nl-openinvoice.php:265
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:241
+#: class-wc-gateway-afterpay-no-openinvoice.php:240
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:265
+#: class-wc-gateway-afterpay-de-installments.php:254
+#: class-wc-gateway-afterpay-nl-business-extra.php:252
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:240
+#: class-wc-gateway-afterpay-ch-openinvoice.php:250
+#: class-wc-gateway-afterpay-nl-payinx.php:248
+#: class-wc-gateway-afterpay-no-flex.php:249
+#: class-wc-gateway-afterpay-at-openinvoice.php:251
+#: class-wc-gateway-afterpay-fi-flex.php:249
+#: class-wc-gateway-afterpay-se-flex.php:249
+#: class-wc-gateway-afterpay-dk-installments.php:247
+#: class-wc-gateway-afterpay-nl-business-rest.php:241
+#: class-wc-gateway-afterpay-se-installments.php:247
+#: class-wc-gateway-afterpay-dk-campaign.php:241
+#: class-wc-gateway-afterpay-at-installments.php:253
+#: class-wc-gateway-afterpay-se-campaign.php:242
+msgid "Show phone number"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:250
+#: class-wc-gateway-afterpay-dk-flex.php:259
+#: class-wc-gateway-afterpay-de-directdebit.php:271
+#: class-wc-gateway-afterpay-se-openinvoice.php:252
+#: class-wc-gateway-afterpay-de-openinvoice.php:271
+#: class-wc-gateway-afterpay-no-campaign.php:250
+#: class-wc-gateway-afterpay-fi-openinvoice.php:250
+#: class-wc-gateway-afterpay-at-directdebit.php:271
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:252
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:250
+#: class-wc-gateway-afterpay-fi-installments.php:259
+#: class-wc-gateway-afterpay-dk-openinvoice.php:251
+#: class-wc-gateway-afterpay-no-installments.php:257
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:251
+#: class-wc-gateway-afterpay-no-openinvoice.php:250
+#: class-wc-gateway-afterpay-de-installments.php:274
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:250
+#: class-wc-gateway-afterpay-ch-openinvoice.php:270
+#: class-wc-gateway-afterpay-no-flex.php:259
+#: class-wc-gateway-afterpay-at-openinvoice.php:271
+#: class-wc-gateway-afterpay-fi-flex.php:259
+#: class-wc-gateway-afterpay-se-flex.php:259
+#: class-wc-gateway-afterpay-dk-installments.php:257
+#: class-wc-gateway-afterpay-se-installments.php:257
+#: class-wc-gateway-afterpay-dk-campaign.php:251
+#: class-wc-gateway-afterpay-at-installments.php:273
+#: class-wc-gateway-afterpay-se-campaign.php:252
+msgid "Show terms and conditions"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:252
+#: class-wc-gateway-afterpay-dk-flex.php:261
+#: class-wc-gateway-afterpay-de-directdebit.php:273
+#: class-wc-gateway-afterpay-se-openinvoice.php:254
+#: class-wc-gateway-afterpay-de-openinvoice.php:273
+#: class-wc-gateway-afterpay-no-campaign.php:252
+#: class-wc-gateway-afterpay-fi-openinvoice.php:252
+#: class-wc-gateway-afterpay-at-directdebit.php:273
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:254
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:252
+#: class-wc-gateway-afterpay-fi-installments.php:261
+#: class-wc-gateway-afterpay-dk-openinvoice.php:253
+#: class-wc-gateway-afterpay-no-installments.php:259
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:253
+#: class-wc-gateway-afterpay-no-openinvoice.php:252
+#: class-wc-gateway-afterpay-de-installments.php:276
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:252
+#: class-wc-gateway-afterpay-ch-openinvoice.php:272
+#: class-wc-gateway-afterpay-no-flex.php:261
+#: class-wc-gateway-afterpay-at-openinvoice.php:273
+#: class-wc-gateway-afterpay-fi-flex.php:261
+#: class-wc-gateway-afterpay-se-flex.php:261
+#: class-wc-gateway-afterpay-dk-installments.php:259
+#: class-wc-gateway-afterpay-se-installments.php:259
+#: class-wc-gateway-afterpay-dk-campaign.php:253
+#: class-wc-gateway-afterpay-at-installments.php:275
+#: class-wc-gateway-afterpay-se-campaign.php:254
+msgid "Show terms and conditions of Riverty"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:93
+msgid "Sign up here"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:157
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:158
+#: class-wc-gateway-afterpay-dk-flex.php:166
+#: class-wc-gateway-afterpay-de-directdebit.php:168
+#: class-wc-gateway-afterpay-se-openinvoice.php:159
+#: class-wc-gateway-afterpay-de-openinvoice.php:168
+#: class-wc-gateway-afterpay-no-campaign.php:157
+#: class-wc-gateway-afterpay-fi-openinvoice.php:157
+#: class-wc-gateway-afterpay-at-directdebit.php:168
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:159
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:157
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:158
+#: class-wc-gateway-afterpay-fi-installments.php:166
+#: class-wc-gateway-afterpay-dk-openinvoice.php:158
+#: class-wc-gateway-afterpay-no-installments.php:164
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:158
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:158
+#: class-wc-gateway-afterpay-no-openinvoice.php:157
+#: class-wc-gateway-afterpay-de-installments.php:171
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:157
+#: class-wc-gateway-afterpay-ch-openinvoice.php:167
+#: class-wc-gateway-afterpay-nl-payinx.php:165
+#: class-wc-gateway-afterpay-no-flex.php:166
+#: class-wc-gateway-afterpay-at-openinvoice.php:168
+#: class-wc-gateway-afterpay-fi-flex.php:166
+#: class-wc-gateway-afterpay-se-flex.php:166
+#: class-wc-gateway-afterpay-dk-installments.php:164
+#: class-wc-gateway-afterpay-nl-business-rest.php:158
+#: class-wc-gateway-afterpay-se-installments.php:164
+#: class-wc-gateway-afterpay-dk-campaign.php:158
+#: class-wc-gateway-afterpay-at-installments.php:170
+#: class-wc-gateway-afterpay-se-campaign.php:159
+msgid "Sign up here "
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:486
+#| msgid "Social security number"
+msgid "social security number"
+msgstr "personnummer"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:399
+#: class-wc-gateway-afterpay-dk-flex.php:436
+#: class-wc-gateway-afterpay-se-openinvoice.php:403
+#: class-wc-gateway-afterpay-no-campaign.php:399
+#: class-wc-gateway-afterpay-fi-openinvoice.php:398
+#: class-wc-gateway-afterpay-fi-installments.php:490
+#: class-wc-gateway-afterpay-dk-openinvoice.php:402
+#: class-wc-gateway-afterpay-no-installments.php:489
+#: class-wc-gateway-afterpay-no-openinvoice.php:398
+#: class-wc-gateway-afterpay-no-flex.php:436
+#: class-wc-gateway-afterpay-fi-flex.php:436
+#: class-wc-gateway-afterpay-se-flex.php:436
+#: class-wc-gateway-afterpay-dk-installments.php:488
+#: class-wc-gateway-afterpay-se-installments.php:488
+#: class-wc-gateway-afterpay-dk-campaign.php:403
+#: class-wc-gateway-afterpay-se-campaign.php:404
+msgid "Social security number is a required field"
+msgstr "Personnummer er et obligatorisk felt"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:167
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:168
+#: class-wc-gateway-afterpay-dk-flex.php:176
+#: class-wc-gateway-afterpay-de-directdebit.php:178
+#: class-wc-gateway-afterpay-se-openinvoice.php:169
+#: class-wc-gateway-afterpay-de-openinvoice.php:178
+#: class-wc-gateway-afterpay-no-campaign.php:167
+#: class-wc-gateway-afterpay-fi-openinvoice.php:167
+#: class-wc-gateway-afterpay-at-directdebit.php:178
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:169
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:167
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:168
+#: class-wc-gateway-afterpay-fi-installments.php:176
+#: class-wc-gateway-afterpay-dk-openinvoice.php:168
+#: class-wc-gateway-afterpay-no-installments.php:174
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:168
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:168
+#: class-wc-gateway-afterpay-no-openinvoice.php:167
+#: class-wc-gateway-afterpay-de-installments.php:181
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:167
+#: class-wc-gateway-afterpay-ch-openinvoice.php:177
+#: class-wc-gateway-afterpay-nl-payinx.php:175
+#: class-wc-gateway-afterpay-no-flex.php:176
+#: class-wc-gateway-afterpay-at-openinvoice.php:178
+#: class-wc-gateway-afterpay-fi-flex.php:176
+#: class-wc-gateway-afterpay-se-flex.php:176
+#: class-wc-gateway-afterpay-dk-installments.php:174
+#: class-wc-gateway-afterpay-nl-business-rest.php:168
+#: class-wc-gateway-afterpay-se-installments.php:174
+#: class-wc-gateway-afterpay-dk-campaign.php:168
+#: class-wc-gateway-afterpay-at-installments.php:180
+#: class-wc-gateway-afterpay-se-campaign.php:169
+msgid ""
+"Start accepting payment by connecting to the Riverty production environment. "
+"Get your production API key on the"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:316
+#: class-wc-gateway-afterpay-fi-campaign.php:317
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:320
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:321
+#: class-wc-gateway-afterpay-dk-flex.php:325
+#: class-wc-gateway-afterpay-dk-flex.php:326
+#: class-wc-gateway-afterpay-de-directdebit.php:358
+#: class-wc-gateway-afterpay-de-directdebit.php:359
+#: class-wc-gateway-afterpay-se-openinvoice.php:318
+#: class-wc-gateway-afterpay-se-openinvoice.php:319
+#: class-wc-gateway-afterpay-de-openinvoice.php:358
+#: class-wc-gateway-afterpay-de-openinvoice.php:359
+#: class-wc-gateway-afterpay-no-campaign.php:316
+#: class-wc-gateway-afterpay-no-campaign.php:317
+#: class-wc-gateway-afterpay-fi-openinvoice.php:316
+#: class-wc-gateway-afterpay-fi-openinvoice.php:317
+#: class-wc-gateway-afterpay-at-directdebit.php:358
+#: class-wc-gateway-afterpay-at-directdebit.php:359
+#: class-wc-gateway-afterpay-nl-directdebit.php:326
+#: class-wc-gateway-afterpay-nl-directdebit.php:327
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:318
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:319
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:316
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:317
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:320
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:321
+#: class-wc-gateway-afterpay-fi-installments.php:325
+#: class-wc-gateway-afterpay-fi-installments.php:326
+#: class-wc-gateway-afterpay-be-openinvoice.php:328
+#: class-wc-gateway-afterpay-be-openinvoice.php:329
+#: class-wc-gateway-afterpay-dk-openinvoice.php:317
+#: class-wc-gateway-afterpay-dk-openinvoice.php:318
+#: class-wc-gateway-afterpay-no-installments.php:323
+#: class-wc-gateway-afterpay-no-installments.php:324
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:317
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:318
+#: class-wc-gateway-afterpay-nl-business.php:314
+#: class-wc-gateway-afterpay-nl-business.php:315
+#: class-wc-gateway-afterpay-nl-openinvoice.php:337
+#: class-wc-gateway-afterpay-nl-openinvoice.php:338
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:320
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:321
+#: class-wc-gateway-afterpay-no-openinvoice.php:316
+#: class-wc-gateway-afterpay-no-openinvoice.php:317
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:337
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:338
+#: class-wc-gateway-afterpay-de-installments.php:361
+#: class-wc-gateway-afterpay-de-installments.php:362
+#: class-wc-gateway-afterpay-nl-business-extra.php:314
+#: class-wc-gateway-afterpay-nl-business-extra.php:315
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:316
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:317
+#: class-wc-gateway-afterpay-ch-openinvoice.php:357
+#: class-wc-gateway-afterpay-ch-openinvoice.php:358
+#: class-wc-gateway-afterpay-nl-payinx.php:327
+#: class-wc-gateway-afterpay-nl-payinx.php:328
+#: class-wc-gateway-afterpay-no-flex.php:325
+#: class-wc-gateway-afterpay-no-flex.php:326
+#: class-wc-gateway-afterpay-at-openinvoice.php:358
+#: class-wc-gateway-afterpay-at-openinvoice.php:359
+#: class-wc-gateway-afterpay-fi-flex.php:325
+#: class-wc-gateway-afterpay-fi-flex.php:326
+#: class-wc-gateway-afterpay-se-flex.php:325
+#: class-wc-gateway-afterpay-se-flex.php:326
+#: class-wc-gateway-afterpay-dk-installments.php:323
+#: class-wc-gateway-afterpay-dk-installments.php:324
+#: class-wc-gateway-afterpay-nl-business-rest.php:310
+#: class-wc-gateway-afterpay-nl-business-rest.php:311
+#: class-wc-gateway-afterpay-se-installments.php:323
+#: class-wc-gateway-afterpay-se-installments.php:324
+#: class-wc-gateway-afterpay-dk-campaign.php:317
+#: class-wc-gateway-afterpay-dk-campaign.php:318
+#: class-wc-gateway-afterpay-at-installments.php:360
+#: class-wc-gateway-afterpay-at-installments.php:361
+#: class-wc-gateway-afterpay-se-campaign.php:318
+#: class-wc-gateway-afterpay-se-campaign.php:319
+msgid "Status to capture based on"
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:432
+msgid "Strong authentication failed or was aborted."
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:348 class-wc-gateway-afterpay.php:349
+msgid ""
+"Strong authentication failed or was aborted. Please try again or select "
+"another payment method."
+msgstr ""
+"Identifisering med BankID mislyktes eller ble avbrutt. Vennligst prøv igjen "
+"eller velg en annen betalingsmetode."
+
+#: class-wc-gateway-afterpay-dk-openinvoice.php:366
+#: class-wc-gateway-afterpay-dk-installments.php:452
+#: class-wc-gateway-afterpay-dk-campaign.php:367
+msgid "Tast inn dit CPR-nummer (10 siffer) for å gennemføre købet"
+msgstr ""
+
+#: class-wc-gateway-afterpay-no-campaign.php:366
+#: class-wc-gateway-afterpay-no-installments.php:453
+#: class-wc-gateway-afterpay-no-openinvoice.php:365
+msgid "Tast inn ditt personnummer (11 siffer) for å fullføre kjøpet"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:706
+msgid "Terms and Conditions for the selected Riverty payment method."
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:209
+#: class-wc-gateway-afterpay-be-openinvoice.php:211
+#: class-wc-gateway-afterpay-nl-business.php:207
+#: class-wc-gateway-afterpay-nl-openinvoice.php:211
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:211
+#: class-wc-gateway-afterpay-nl-business-extra.php:207
+msgid "Test Mode"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:152
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:153
+#: class-wc-gateway-afterpay-dk-flex.php:161
+#: class-wc-gateway-afterpay-de-directdebit.php:163
+#: class-wc-gateway-afterpay-se-openinvoice.php:154
+#: class-wc-gateway-afterpay-de-openinvoice.php:163
+#: class-wc-gateway-afterpay-no-campaign.php:152
+#: class-wc-gateway-afterpay-fi-openinvoice.php:152
+#: class-wc-gateway-afterpay-at-directdebit.php:163
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:154
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:152
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:153
+#: class-wc-gateway-afterpay-fi-installments.php:161
+#: class-wc-gateway-afterpay-dk-openinvoice.php:153
+#: class-wc-gateway-afterpay-no-installments.php:159
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:153
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:153
+#: class-wc-gateway-afterpay-no-openinvoice.php:152
+#: class-wc-gateway-afterpay-de-installments.php:166
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:152
+#: class-wc-gateway-afterpay-ch-openinvoice.php:162
+#: class-wc-gateway-afterpay-nl-payinx.php:160
+#: class-wc-gateway-afterpay-no-flex.php:161
+#: class-wc-gateway-afterpay-at-openinvoice.php:163
+#: class-wc-gateway-afterpay-fi-flex.php:161
+#: class-wc-gateway-afterpay-se-flex.php:161
+#: class-wc-gateway-afterpay-dk-installments.php:159
+#: class-wc-gateway-afterpay-nl-business-rest.php:153
+#: class-wc-gateway-afterpay-se-installments.php:159
+#: class-wc-gateway-afterpay-dk-campaign.php:153
+#: class-wc-gateway-afterpay-at-installments.php:165
+#: class-wc-gateway-afterpay-se-campaign.php:154
+msgid "Test mode API key\t"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:351
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:355
+#: class-wc-gateway-afterpay-dk-flex.php:360
+#: class-wc-gateway-afterpay-de-directdebit.php:400
+#: class-wc-gateway-afterpay-base.php:782
+#: class-wc-gateway-afterpay-se-openinvoice.php:353
+#: class-wc-gateway-afterpay-de-openinvoice.php:400
+#: class-wc-gateway-afterpay-no-campaign.php:351
+#: class-wc-gateway-afterpay-fi-openinvoice.php:351
+#: class-wc-gateway-afterpay-at-directdebit.php:400
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:353
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:351
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:355
+#: class-wc-gateway-afterpay-fi-installments.php:360
+#: class-wc-gateway-afterpay-dk-openinvoice.php:352
+#: class-wc-gateway-afterpay-no-installments.php:358
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:352
+#: class-wc-gateway-afterpay-nl-business.php:338
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:355
+#: class-wc-gateway-afterpay-no-openinvoice.php:351
+#: class-wc-gateway-afterpay-de-installments.php:403
+#: class-wc-gateway-afterpay-nl-business-extra.php:338
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:351
+#: class-wc-gateway-afterpay-ch-openinvoice.php:399
+#: class-wc-gateway-afterpay-nl-payinx.php:362
+#: class-wc-gateway-afterpay-no-flex.php:360
+#: class-wc-gateway-afterpay-at-openinvoice.php:400
+#: class-wc-gateway-afterpay-base-rest.php:445
+#: class-wc-gateway-afterpay-fi-flex.php:360
+#: class-wc-gateway-afterpay-se-flex.php:360
+#: class-wc-gateway-afterpay-dk-installments.php:358
+#: class-wc-gateway-afterpay-nl-business-rest.php:342
+#: class-wc-gateway-afterpay-se-installments.php:358
+#: class-wc-gateway-afterpay-dk-campaign.php:352
+#: class-wc-gateway-afterpay-at-installments.php:402
+#: class-wc-gateway-afterpay-se-campaign.php:353
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-business.php:342
+#: class-wc-gateway-afterpay-nl-business-extra.php:342
+msgid "TEST SANDBOX MODE ENABLED"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1508
+msgid ""
+"Thank you for your order, you will receive a payment invoice for your order "
+"from Riverty."
+msgstr ""
+
+#: class-wc-gateway-afterpay.php:598
+#| msgid ""
+#| "Thank you for your purchase at %s and for choosing AfterPay as your "
+#| "payment method. An email with the order confirmation, details and "
+#| "tracking info is on the way, but feel free to discover what AfterPay can "
+#| "do for you."
+msgid ""
+"Thank you for your purchase and for choosing Riverty as your payment method. "
+"An email with the order confirmation, details and tracking info is on the "
+"way, but feel free to discover what Riverty can do for you."
+msgstr ""
+"Takk for ditt kjøp og for at du valgte Riverty som betalmåte. Du får straks "
+"en e-post med ordrebekreftelse og sporingsdetaljer, men sjekk gjerne ut "
+"allerede nå hva Riverty kan gjøre for deg."
+
+#: class-wc-gateway-afterpay-base.php:606
+#, fuzzy
+#| msgid ""
+#| "The %1 or the Riverty payment method apply. The Privacy Policy of Riverty "
+#| "can be found %2."
+msgid ""
+"The %1 for the Riverty payment method apply. The Privacy Policy of Riverty "
+"can be found %2."
+msgstr "%1 for Riverty gjelder. Personvernpolicy finner du %2."
+
+#: class-wc-gateway-afterpay-fi-campaign.php:242
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:243
+#: class-wc-gateway-afterpay-dk-flex.php:251
+#: class-wc-gateway-afterpay-de-directdebit.php:253
+#: class-wc-gateway-afterpay-se-openinvoice.php:244
+#: class-wc-gateway-afterpay-de-openinvoice.php:253
+#: class-wc-gateway-afterpay-no-campaign.php:242
+#: class-wc-gateway-afterpay-fi-openinvoice.php:242
+#: class-wc-gateway-afterpay-at-directdebit.php:253
+#: class-wc-gateway-afterpay-nl-directdebit.php:256
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:244
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:242
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:243
+#: class-wc-gateway-afterpay-fi-installments.php:251
+#: class-wc-gateway-afterpay-be-openinvoice.php:258
+#: class-wc-gateway-afterpay-dk-openinvoice.php:243
+#: class-wc-gateway-afterpay-no-installments.php:249
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:243
+#: class-wc-gateway-afterpay-nl-business.php:254
+#: class-wc-gateway-afterpay-nl-openinvoice.php:267
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:243
+#: class-wc-gateway-afterpay-no-openinvoice.php:242
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:267
+#: class-wc-gateway-afterpay-de-installments.php:256
+#: class-wc-gateway-afterpay-nl-business-extra.php:254
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:242
+#: class-wc-gateway-afterpay-ch-openinvoice.php:252
+#: class-wc-gateway-afterpay-nl-payinx.php:250
+#: class-wc-gateway-afterpay-no-flex.php:251
+#: class-wc-gateway-afterpay-at-openinvoice.php:253
+#: class-wc-gateway-afterpay-fi-flex.php:251
+#: class-wc-gateway-afterpay-se-flex.php:251
+#: class-wc-gateway-afterpay-dk-installments.php:249
+#: class-wc-gateway-afterpay-nl-business-rest.php:243
+#: class-wc-gateway-afterpay-se-installments.php:249
+#: class-wc-gateway-afterpay-dk-campaign.php:243
+#: class-wc-gateway-afterpay-at-installments.php:255
+#: class-wc-gateway-afterpay-se-campaign.php:244
+msgid ""
+"The phone number is needed for payment and should be asked to the consumer "
+"in the checkout. This option will show the phone number in the Riverty "
+"payment section."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1380
+#: class-wc-gateway-afterpay-base-rest.php:1081
+#: class-wc-gateway-afterpay-base-rest.php:1098
+msgid ""
+"There is a problem with submitting this order to Riverty, please check the "
+"following issues: "
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1379
+#: class-wc-gateway-afterpay-base-rest.php:1080
+#: class-wc-gateway-afterpay-base-rest.php:1097
+msgid "There is a problem with submitting this order to Riverty."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1788
+msgid "There is a problem with your bank data:"
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:154
+#: class-wc-gateway-afterpay-be-openinvoice.php:156
+#: class-wc-gateway-afterpay-nl-business.php:152
+#: class-wc-gateway-afterpay-nl-openinvoice.php:156
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:156
+#: class-wc-gateway-afterpay-nl-business-extra.php:152
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: class-wc-gateway-afterpay-nl-directdebit.php:152
+#: class-wc-gateway-afterpay-be-openinvoice.php:154
+#: class-wc-gateway-afterpay-nl-business.php:150
+#: class-wc-gateway-afterpay-nl-openinvoice.php:154
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:154
+#: class-wc-gateway-afterpay-nl-business-extra.php:150
+msgid "Title"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:158
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:159
+#: class-wc-gateway-afterpay-dk-flex.php:167
+#: class-wc-gateway-afterpay-de-directdebit.php:169
+#: class-wc-gateway-afterpay-se-openinvoice.php:160
+#: class-wc-gateway-afterpay-de-openinvoice.php:169
+#: class-wc-gateway-afterpay-no-campaign.php:158
+#: class-wc-gateway-afterpay-fi-openinvoice.php:158
+#: class-wc-gateway-afterpay-at-directdebit.php:169
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:160
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:158
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:159
+#: class-wc-gateway-afterpay-fi-installments.php:167
+#: class-wc-gateway-afterpay-dk-openinvoice.php:159
+#: class-wc-gateway-afterpay-no-installments.php:165
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:159
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:159
+#: class-wc-gateway-afterpay-no-openinvoice.php:158
+#: class-wc-gateway-afterpay-de-installments.php:172
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:158
+#: class-wc-gateway-afterpay-ch-openinvoice.php:168
+#: class-wc-gateway-afterpay-nl-payinx.php:166
+#: class-wc-gateway-afterpay-no-flex.php:167
+#: class-wc-gateway-afterpay-at-openinvoice.php:169
+#: class-wc-gateway-afterpay-fi-flex.php:167
+#: class-wc-gateway-afterpay-se-flex.php:167
+#: class-wc-gateway-afterpay-dk-installments.php:165
+#: class-wc-gateway-afterpay-nl-business-rest.php:159
+#: class-wc-gateway-afterpay-se-installments.php:165
+#: class-wc-gateway-afterpay-dk-campaign.php:159
+#: class-wc-gateway-afterpay-at-installments.php:171
+#: class-wc-gateway-afterpay-se-campaign.php:160
+msgid "to get access and a test API key on the"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:753
+msgid ""
+"To make use of the Riverty payment method, your age has to be 18 years or "
+"older."
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:622
+#: class-wc-gateway-afterpay-de-openinvoice.php:539
+#: class-wc-gateway-afterpay-at-directdebit.php:634
+#: class-wc-gateway-afterpay-de-installments.php:710
+#: class-wc-gateway-afterpay-ch-openinvoice.php:538
+#: class-wc-gateway-afterpay-at-openinvoice.php:539
+#: class-wc-gateway-afterpay-at-installments.php:722
+msgid ""
+"To proceed with payment using Riverty, please accept the Data Privacy "
+"conditions."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1396
+#: class-wc-gateway-afterpay-base-rest.php:1110
+msgid "Unknown response from Riverty."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:1397
+#: class-wc-gateway-afterpay-base-rest.php:1111
+msgid "Unknown response from Riverty. Please contact our customer service"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:183
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:184
+#: class-wc-gateway-afterpay-dk-flex.php:192
+#: class-wc-gateway-afterpay-de-directdebit.php:194
+#: class-wc-gateway-afterpay-se-openinvoice.php:185
+#: class-wc-gateway-afterpay-de-openinvoice.php:194
+#: class-wc-gateway-afterpay-no-campaign.php:183
+#: class-wc-gateway-afterpay-fi-openinvoice.php:183
+#: class-wc-gateway-afterpay-at-directdebit.php:194
+#: class-wc-gateway-afterpay-nl-directdebit.php:200
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:185
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:183
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:184
+#: class-wc-gateway-afterpay-fi-installments.php:192
+#: class-wc-gateway-afterpay-be-openinvoice.php:202
+#: class-wc-gateway-afterpay-dk-openinvoice.php:184
+#: class-wc-gateway-afterpay-no-installments.php:190
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:184
+#: class-wc-gateway-afterpay-nl-business.php:198
+#: class-wc-gateway-afterpay-nl-openinvoice.php:202
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:184
+#: class-wc-gateway-afterpay-no-openinvoice.php:183
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:202
+#: class-wc-gateway-afterpay-de-installments.php:197
+#: class-wc-gateway-afterpay-nl-business-extra.php:198
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:183
+#: class-wc-gateway-afterpay-ch-openinvoice.php:193
+#: class-wc-gateway-afterpay-nl-payinx.php:191
+#: class-wc-gateway-afterpay-no-flex.php:192
+#: class-wc-gateway-afterpay-at-openinvoice.php:194
+#: class-wc-gateway-afterpay-fi-flex.php:192
+#: class-wc-gateway-afterpay-se-flex.php:192
+#: class-wc-gateway-afterpay-dk-installments.php:190
+#: class-wc-gateway-afterpay-nl-business-rest.php:184
+#: class-wc-gateway-afterpay-se-installments.php:190
+#: class-wc-gateway-afterpay-dk-campaign.php:184
+#: class-wc-gateway-afterpay-at-installments.php:196
+#: class-wc-gateway-afterpay-se-campaign.php:185
+msgid "Upper threshold"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:275
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:279
+#: class-wc-gateway-afterpay-dk-flex.php:284
+#: class-wc-gateway-afterpay-de-directdebit.php:306
+#: class-wc-gateway-afterpay-se-openinvoice.php:277
+#: class-wc-gateway-afterpay-de-openinvoice.php:306
+#: class-wc-gateway-afterpay-no-campaign.php:275
+#: class-wc-gateway-afterpay-fi-openinvoice.php:275
+#: class-wc-gateway-afterpay-at-directdebit.php:306
+#: class-wc-gateway-afterpay-nl-directdebit.php:292
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:277
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:275
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:279
+#: class-wc-gateway-afterpay-fi-installments.php:284
+#: class-wc-gateway-afterpay-be-openinvoice.php:294
+#: class-wc-gateway-afterpay-dk-openinvoice.php:276
+#: class-wc-gateway-afterpay-no-installments.php:282
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:276
+#: class-wc-gateway-afterpay-nl-business.php:280
+#: class-wc-gateway-afterpay-nl-openinvoice.php:303
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:279
+#: class-wc-gateway-afterpay-no-openinvoice.php:275
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:303
+#: class-wc-gateway-afterpay-de-installments.php:309
+#: class-wc-gateway-afterpay-nl-business-extra.php:280
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:275
+#: class-wc-gateway-afterpay-ch-openinvoice.php:305
+#: class-wc-gateway-afterpay-nl-payinx.php:286
+#: class-wc-gateway-afterpay-no-flex.php:284
+#: class-wc-gateway-afterpay-at-openinvoice.php:306
+#: class-wc-gateway-afterpay-fi-flex.php:284
+#: class-wc-gateway-afterpay-se-flex.php:284
+#: class-wc-gateway-afterpay-dk-installments.php:282
+#: class-wc-gateway-afterpay-nl-business-rest.php:269
+#: class-wc-gateway-afterpay-se-installments.php:282
+#: class-wc-gateway-afterpay-dk-campaign.php:276
+#: class-wc-gateway-afterpay-at-installments.php:308
+#: class-wc-gateway-afterpay-se-campaign.php:277
+msgid "Use custom housenumber addition field"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:265
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:269
+#: class-wc-gateway-afterpay-dk-flex.php:274
+#: class-wc-gateway-afterpay-de-directdebit.php:296
+#: class-wc-gateway-afterpay-se-openinvoice.php:267
+#: class-wc-gateway-afterpay-de-openinvoice.php:296
+#: class-wc-gateway-afterpay-no-campaign.php:265
+#: class-wc-gateway-afterpay-fi-openinvoice.php:265
+#: class-wc-gateway-afterpay-at-directdebit.php:296
+#: class-wc-gateway-afterpay-nl-directdebit.php:282
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:267
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:265
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:269
+#: class-wc-gateway-afterpay-fi-installments.php:274
+#: class-wc-gateway-afterpay-be-openinvoice.php:284
+#: class-wc-gateway-afterpay-dk-openinvoice.php:266
+#: class-wc-gateway-afterpay-no-installments.php:272
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:266
+#: class-wc-gateway-afterpay-nl-business.php:270
+#: class-wc-gateway-afterpay-nl-openinvoice.php:293
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:269
+#: class-wc-gateway-afterpay-no-openinvoice.php:265
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:293
+#: class-wc-gateway-afterpay-de-installments.php:299
+#: class-wc-gateway-afterpay-nl-business-extra.php:270
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:265
+#: class-wc-gateway-afterpay-ch-openinvoice.php:295
+#: class-wc-gateway-afterpay-nl-payinx.php:276
+#: class-wc-gateway-afterpay-no-flex.php:274
+#: class-wc-gateway-afterpay-at-openinvoice.php:296
+#: class-wc-gateway-afterpay-fi-flex.php:274
+#: class-wc-gateway-afterpay-se-flex.php:274
+#: class-wc-gateway-afterpay-dk-installments.php:272
+#: class-wc-gateway-afterpay-nl-business-rest.php:259
+#: class-wc-gateway-afterpay-se-installments.php:272
+#: class-wc-gateway-afterpay-dk-campaign.php:266
+#: class-wc-gateway-afterpay-at-installments.php:298
+#: class-wc-gateway-afterpay-se-campaign.php:267
+msgid "Use custom housenumber field"
+msgstr ""
+
+#: class-wc-gateway-afterpay-de-directdebit.php:318
+#: class-wc-gateway-afterpay-de-openinvoice.php:318
+#: class-wc-gateway-afterpay-at-directdebit.php:318
+#: class-wc-gateway-afterpay-de-installments.php:321
+#: class-wc-gateway-afterpay-ch-openinvoice.php:317
+#: class-wc-gateway-afterpay-at-openinvoice.php:318
+#: class-wc-gateway-afterpay-at-installments.php:320
+msgid "Use the title field from the Germanized plugin"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:478
+msgid "vat number"
+msgstr "orgno"
+
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:404
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:402
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:403
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:402
+msgid "Vat number is a required field"
+msgstr "Orgno er et påkrevd felt"
+
+#: class-wc-gateway-afterpay-fi-campaign.php:305
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:309
+#: class-wc-gateway-afterpay-dk-flex.php:314
+#: class-wc-gateway-afterpay-de-directdebit.php:347
+#: class-wc-gateway-afterpay-se-openinvoice.php:307
+#: class-wc-gateway-afterpay-de-openinvoice.php:347
+#: class-wc-gateway-afterpay-no-campaign.php:305
+#: class-wc-gateway-afterpay-fi-openinvoice.php:305
+#: class-wc-gateway-afterpay-at-directdebit.php:347
+#: class-wc-gateway-afterpay-nl-directdebit.php:315
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:307
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:305
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:309
+#: class-wc-gateway-afterpay-fi-installments.php:314
+#: class-wc-gateway-afterpay-be-openinvoice.php:317
+#: class-wc-gateway-afterpay-dk-openinvoice.php:306
+#: class-wc-gateway-afterpay-no-installments.php:312
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:306
+#: class-wc-gateway-afterpay-nl-business.php:303
+#: class-wc-gateway-afterpay-nl-openinvoice.php:326
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:309
+#: class-wc-gateway-afterpay-no-openinvoice.php:305
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:326
+#: class-wc-gateway-afterpay-de-installments.php:350
+#: class-wc-gateway-afterpay-nl-business-extra.php:303
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:305
+#: class-wc-gateway-afterpay-ch-openinvoice.php:346
+#: class-wc-gateway-afterpay-nl-payinx.php:316
+#: class-wc-gateway-afterpay-no-flex.php:314
+#: class-wc-gateway-afterpay-at-openinvoice.php:347
+#: class-wc-gateway-afterpay-fi-flex.php:314
+#: class-wc-gateway-afterpay-se-flex.php:314
+#: class-wc-gateway-afterpay-dk-installments.php:312
+#: class-wc-gateway-afterpay-nl-business-rest.php:299
+#: class-wc-gateway-afterpay-se-installments.php:312
+#: class-wc-gateway-afterpay-dk-campaign.php:306
+#: class-wc-gateway-afterpay-at-installments.php:349
+#: class-wc-gateway-afterpay-se-campaign.php:307
+msgid "Way of captures"
+msgstr ""
+
+#: class-wc-gateway-afterpay-fi-campaign.php:306
+#: class-wc-gateway-afterpay-nl-directdebit-rest.php:310
+#: class-wc-gateway-afterpay-dk-flex.php:315
+#: class-wc-gateway-afterpay-de-directdebit.php:348
+#: class-wc-gateway-afterpay-se-openinvoice.php:308
+#: class-wc-gateway-afterpay-de-openinvoice.php:348
+#: class-wc-gateway-afterpay-no-campaign.php:306
+#: class-wc-gateway-afterpay-fi-openinvoice.php:306
+#: class-wc-gateway-afterpay-at-directdebit.php:348
+#: class-wc-gateway-afterpay-nl-directdebit.php:316
+#: class-wc-gateway-afterpay-se-b2b-openinvoice.php:308
+#: class-wc-gateway-afterpay-fi-b2b-openinvoice.php:306
+#: class-wc-gateway-afterpay-be-openinvoice-rest.php:310
+#: class-wc-gateway-afterpay-fi-installments.php:315
+#: class-wc-gateway-afterpay-be-openinvoice.php:318
+#: class-wc-gateway-afterpay-dk-openinvoice.php:307
+#: class-wc-gateway-afterpay-no-installments.php:313
+#: class-wc-gateway-afterpay-dk-b2b-openinvoice.php:307
+#: class-wc-gateway-afterpay-nl-business.php:304
+#: class-wc-gateway-afterpay-nl-openinvoice.php:327
+#: class-wc-gateway-afterpay-nl-openinvoice-rest.php:310
+#: class-wc-gateway-afterpay-no-openinvoice.php:306
+#: class-wc-gateway-afterpay-nl-openinvoice-extra.php:327
+#: class-wc-gateway-afterpay-de-installments.php:351
+#: class-wc-gateway-afterpay-nl-business-extra.php:304
+#: class-wc-gateway-afterpay-no-b2b-openinvoice.php:306
+#: class-wc-gateway-afterpay-ch-openinvoice.php:347
+#: class-wc-gateway-afterpay-nl-payinx.php:317
+#: class-wc-gateway-afterpay-no-flex.php:315
+#: class-wc-gateway-afterpay-at-openinvoice.php:348
+#: class-wc-gateway-afterpay-fi-flex.php:315
+#: class-wc-gateway-afterpay-se-flex.php:315
+#: class-wc-gateway-afterpay-dk-installments.php:313
+#: class-wc-gateway-afterpay-nl-business-rest.php:300
+#: class-wc-gateway-afterpay-se-installments.php:313
+#: class-wc-gateway-afterpay-dk-campaign.php:307
+#: class-wc-gateway-afterpay-at-installments.php:350
+#: class-wc-gateway-afterpay-se-campaign.php:308
+msgid "Way of capturing"
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:766
+msgid ""
+"You must be at least 18+ to use this service. If you pay on time, you will "
+"avoid additional costs and ensure that you can use Riverty services again in "
+"the future. By continuing, you accept the Terms and Conditions and confirm "
+"that you have read the Privacy Statement and Cookie Statement."
+msgstr ""
+
+#: class-wc-gateway-afterpay-base.php:379
+msgid "Your payment will be withdrawn automatically."
+msgstr ""

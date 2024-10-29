@@ -1,0 +1,296 @@
+.payment_method_afterpay_openinvoice img,
+.payment_method_afterpay_at_directdebit img,
+.payment_method_afterpay_at_installments img,
+.payment_method_afterpay_at_openinvoice img,
+.payment_method_afterpay_be_openinvoice_rest img,
+.payment_method_afterpay_belgium img,
+.payment_method_afterpay_ch_openinvoice img,
+.payment_method_afterpay_de_directdebit img,
+.payment_method_afterpay_de_installments img,
+.payment_method_afterpay_de_openinvoice_extra img,
+.payment_method_afterpay_de_openinvoice img,
+.payment_method_afterpay_dk_openinvoice img,
+.payment_method_afterpay_dk_installments img,
+.payment_method_afterpay_dk_flex img,
+.payment_method_afterpay_dk_campaign img,
+.payment_method_afterpay_dk_b2b_openinvoice img,
+.payment_method_afterpay_fi_installments img,
+.payment_method_afterpay_fi_openinvoice img,
+.payment_method_afterpay_fi_flex img,
+.payment_method_afterpay_fi_campaign img,
+.payment_method_afterpay_fi_b2b_openinvoice img,
+.payment_method_afterpay_business_extra img,
+.payment_method_afterpay_business img,
+.payment_method_afterpay_directdebit img,
+.payment_method_afterpay_openinvoice img,
+.payment_method_afterpay_openinvoice_extra img,
+.payment_method_afterpay_directdebit_rest img,
+.payment_method_afterpay_business_rest img,
+.payment_method_afterpay_nl_payinx img,
+.payment_method_afterpay_nl_openinvoice_rest img,
+.payment_method_afterpay_no_installments img,
+.payment_method_afterpay_no_openinvoice img,
+.payment_method_afterpay_no_flex img,
+.payment_method_afterpay_no_campaign img,
+.payment_method_afterpay_no_b2b_openinvoice img,
+.payment_method_afterpay_se_installments img,
+.payment_method_afterpay_se_openinvoice img,
+.payment_method_afterpay_se_flex img,
+.payment_method_afterpay_se_campaign img,
+.payment_method_afterpay_se_b2b_openinvoice img
+{
+	max-height: 24px !important;
+	float: right;
+}
+
+.afterpay_terms_and_conditions
+{
+	color: #999;
+    font-size: 13px;
+}
+
+.afterpay_terms_and_conditions a
+{
+	color: #208BE2;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.afterpay_terms_and_conditions a:hover
+{
+	text-decoration: none;
+}
+
+.riverty_terms
+{
+	font-weight: normal;
+}
+
+a.afterpay_terms_link 
+{
+	color: #208BE2;
+	cursor: pointer;
+	text-decoration: underline;
+}
+	
+a.afterpay_terms_link:hover 
+{
+	text-decoration: none;
+}
+
+.introduction_text_field
+{
+	margin-bottom: 10px;
+}
+
+.introduction_text_label
+{
+	font-weight: bold;
+}
+
+.modal 
+{
+	display: none; 
+	position: fixed; 
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%; 
+	overflow: auto; 
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0,0.4); 
+}
+
+.modal_content 
+{
+	background-color: #fefefe;
+	margin: 7% auto; 
+	padding: 10px 20px 0px 20px;
+	border: 1px solid #888;
+	width: 70%;
+    height: auto;
+    overflow: hidden;
+}
+
+.modal_footer
+{
+	background-color: white;
+    position: sticky;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 23px;
+}
+
+.close_button 
+{
+	color: #fff;
+	background-color: #3b92eb;
+	position: sticky;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px 30px; 
+	left:90%;
+	bottom:0px;
+}
+  
+.close_button:hover,
+.close_button:focus 
+{
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.afterpay_selling_points_block
+{
+	background-color: #E0E9E8;
+	margin-top: 10px;
+	padding-right: 10px;
+}
+
+.afterpay_selling_points_block ul 
+{
+	list-style: none;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+.afterpay_selling_points_block ul li::before
+{
+	content: "\2022";
+	color: #2D6C68;
+	font-weight: bold;
+	display: inline-block;
+	margin-left: -15px;
+	width: 1em;
+}
+
+.afterpay_selling_points_block ul li:last-child
+{
+	margin-bottom: 0;
+}
+
+afterpay-offer 
+{
+	margin-bottom: 30px;
+}
+
+afterpay-invoice 
+{
+	margin-bottom: 30px;
+}
+
+.bank_validation_response
+{
+	display: none;
+	margin: 10px 0px 0px 5px;
+}
+
+.invalid_account
+{
+	color: red;
+}
+
+.check_mark 
+{
+    display: none;
+	transform: rotate(45deg);
+    height: 13px;
+    width: 7px;
+    border-bottom: 2px solid #78b13f;
+    border-right: 2px solid #78b13f;
+    margin-right: 4px;
+    margin-left: 7px;
+}
+
+#cclw_payment_section #payment ul.payment_methods li 
+{
+    margin-left: 0px;
+}
+
+.afterpay_modal_iframe 
+{
+	height: 400px;
+	width: 100%;
+	border-style: none;
+}
+
+.installment_row label
+{
+	width: auto;
+	height: 100%;
+	display: inline-block;
+	padding: 8px;
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px)  
+{
+	.installment_row label
+	{
+		width: auto;
+		height: 100%;
+		display: inline;
+		padding: 8px;
+	}
+}
+
+@media only screen and (min-width:280px) and (max-width:459px)  
+{
+	.installment_row label
+	{
+		width: auto;
+		height: 100%;
+		display: inline;
+		padding: 8px;
+	}
+}
+
+.riverty_fieldset 
+{
+	margin-top: 10px;
+}
+
+.riverty_payinx_element 
+{
+	background-color: #F3F1F0;
+	margin-top: 15px;
+}
+
+riverty-split 
+{
+	width: 90%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 10px;
+}
+
+.api_key_validation_loader 
+{
+	display: none;
+}
+
+.api_key_validation_loader img 
+{
+	width: 20px;
+	height: 15px;
+}
+
+.apikey_validation_button 
+{
+	cursor: pointer
+}
+
+.test_mode_div 
+{
+	background-color: red; 
+	color: white; 
+	margin: 10px; 
+	padding: 10px; 
+	text-align: center; 
+	font-weight: bold; 
+	text-shadow: none; 
+	border-radius: 10px
+}

@@ -1,0 +1,26 @@
+{
+    "name": "riverty/riverty-sdk-php",
+    "type": "library",
+    "description": "Library for connecting to Riverty | Riverty payment services",
+    "keywords": ["riverty","afterpay","openinvoice","directdebit","bnpl","instalments","installments","payments"],
+    "homepage": "https://developer.riverty.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riverty",
+            "email": "plugins@arvato.com",
+            "homepage": "https://developer.riverty.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": ">=6.2.3"
+    },
+    "autoload": {
+        "psr-4": {
+          "Afterpay\\" : "src/"
+        },
+        "files": ["src/functions_include.php"]
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "payintegrator/afterpay",
+    "type": "library",
+    "description": "Library for connecting to Riverty | AfterPay payment services",
+    "keywords": ["riverty","afterpay","openinvoice","directdebit","bnpl","instalments","installments","payments"],
+    "homepage": "https://developer.riverty.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riverty",
+            "email": "plugins@arvato.com",
+            "homepage": "https://developer.riverty.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": ">=6.2.3"
+    },
+    "suggest": {
+        "ext-soap": "If legacy SOAP payment methods are being used, ext-soap is needed"
+    },
+    "autoload": {
+        "psr-4": {
+          "Afterpay\\" : "src/"
+        },
+        "files": ["src/functions_include.php"]
+  }
+}
